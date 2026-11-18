@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>10,625</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>10,668</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-18</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-18 08:16 UTC</sub>
+<sub>Snapshot 2026-11-18 12:16 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**10,625 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**10,668 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-18 12:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Senior Vice President of Marketing | cobaltio | Remote - US (East Coast) |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/cobaltio/jobs/8949155002) |
 | Senior Associate, Media Technology | realchemistry | Remote - USA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/realchemistry/jobs/5484910008) |
 | Growth Marketing Engineer | pipe17 | Remote |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/pipe17/jobs/4755620005) |
 | Marketing Associate | AlphabeInsightInc | New Orleans, LA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162226316) |
@@ -81,6 +82,15 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | SVP, Marketing, PayPal Checkout | PayPal | 2 Locations |  | 2026-11-18 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/SVP--Marketing--PayPal-Checkout_R0137561) |
 | Executive Director, Strategy & Growth — Health100 | CVS Health | NY - Work from hom |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---Work-from-hom/Executive-Director--Growth-Strategy---Health100_R1028604) |
 | Senior Manager, B2B Retail Media Events and Industry Marketing - CVS Media Exch... | CVS Health | 3 Locations |  | 2026-11-18 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Senior-Manager--Events-and--Industry-Marketing---CVS-Media-Exchange--CMX-_R1003167) |
+| Director of Marketing Transformation | Honeywell | Charlotte, NC, United States |  | 2026-11-17 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/162344) |
+| Marketing and Communication Internship: Winter | Northwell Health | New Hyde Park, Nassau, United States |  | 2026-11-17 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/204155) |
+| Media Marketing Manager, PSG | Sherwin-Williams | Cleveland, OH, United States |  | 2026-11-17 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2629137) |
+| Digital Marketing Lead Specialist, Content & SEO | Sherwin-Williams | Cleveland, OH, United States |  | 2026-11-17 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628356) |
+| Sales and Marketing Specialist | Sinclair | Charleston, WV, United States |  | 2026-11-17 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17637) |
+| User Acquisition Manager, PLG | ArcSite | Grand Rapids, Michigan, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/9C7034EF92) |
+| Senior Product Marketing Manager | ArcSite | Grand Rapids, Michigan, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/F9ACA8628C) |
+| Product Marketing Manager | ArcSite | Grand Rapids, Michigan, US |  | 2026-11-17 | [Apply](https://apply.workable.com/j/0FB2315025) |
+| Growth Manager, Marketing & Sales | silverbackstrategies | Remote |  | 2026-11-17 | [Apply](https://jobs.lever.co/silverbackstrategies/11062272-4f97-40d8-805c-00510874073d) |
 | Sales and Marketing Representative Home Services, Full Time | Providence Life Services | Elmhurst, IL |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668864) |
 | Sales and Marketing Representative Hospice and Palliative Care, Full Time | Providence Life Services | Elmhurst, IL |  | 2026-11-17 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4668854) |
 | Director of Digital Marketing & Paid Media | everlane | Los Angeles, CA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/everlane/jobs/8207617003) |
@@ -142,6 +152,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Manager, Strategic Planning, Enterprise Integrated Marketing | Travelers | CT - Hartford |  | 2026-11-17 | [Apply](https://travelers.wd5.myworkdayjobs.com/en-US/External/job/CT---Hartford/Manager--Strategic-Planning--Enterprise-Integrated-Marketing_R-53747) |
 | Senior Manager, Solutions Marketing - Specialty Testing | Labcorp | 4 Locations |  | 2026-11-17 | [Apply](https://labcorp.wd1.myworkdayjobs.com/en-US/External/job/Durham-NC/Senior-Manager--Solutions-Marketing---Specialty-Testing_2637530) |
 | Retention & Engagement Product Marketing Lead | Humana | Remote Nationwide |  | 2026-11-17 | [Apply](https://humana.wd5.myworkdayjobs.com/en-US/Humana_External_Career_Site/job/Remote-Nationwide/Retention---Engagement-Product-Marketing-Lead_R-436160) |
+| SEO - Manager | Bounteous | United States |  | 2026-11-17 | [Apply](https://jobs.lever.co/bounteous/1b3784ec-5a33-4581-8429-442dbc0f4f65) |
 | Field Marketing Manager, Enterprise | Vercel | Hybrid - San Francisco |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6262094004) |
 | Offline Paid Media Lead | SpaceX | Hawthorne, CA |  | 2026-11-17 | [Apply](https://boards.greenhouse.io/spacex/jobs/8944894002?gh_jid=8944894002) |
 | Director, Paid Media | stanley1913-us | Seattle, WA |  | 2026-11-17 | [Apply](https://job-boards.greenhouse.io/stanley1913-us/jobs/5235959008) |
@@ -194,17 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Associate Director, Patient Services Marketing | astrazeneca | 2 Locations |  | 2026-11-17 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/alexion/job/US---Boston---MA/Associate-Director--Patient-Services-Marketing_R-264518) |
 | Brand Manager, The Cocktail Collection | diageo | 3 World Trade Center, NY |  | 2026-11-17 | [Apply](https://diageo.wd3.myworkdayjobs.com/en-US/diageo_careers/job/3-World-Trade-Center-NY/Brand-Manager--The-Cocktail-Collection_JR1132282) |
 | Group Communications Manager | mearsgroup | Gloucester - Remote |  | 2026-11-17 | [Apply](https://mearsgroup.wd3.myworkdayjobs.com/en-US/external_career_site/job/Gloucester---Remote/Group-Communications-Manager_REQ0040028-1) |
-| Marketing Communications Advisor | mearsgroup | Gloucester - Remote |  | 2026-11-17 | [Apply](https://mearsgroup.wd3.myworkdayjobs.com/en-US/external_career_site/job/Gloucester---Remote/Marketing-Communications-Advisor_REQ0040066) |
-| Account Based Marketing Manager | shi | 2 Locations |  | 2026-11-17 | [Apply](https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Austin-TX-USA/Account-Based-Marketing-Manager_JR4040) |
-| Sr. Brand Manager, R&W Masterbrand | campbellsoup | USA - NJ - Camden |  | 2026-11-17 | [Apply](https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---NJ---Camden/Sr-Brand-Manager--R-W-Masterbrand_Req-69496) |
-| Senior Manager, Integrated Client Marketing Operations | brighthorizons | 2 Locations |  | 2026-11-17 | [Apply](https://brighthorizons.wd5.myworkdayjobs.com/en-US/external-northamerica/job/Home-Team-Massachusetts---MA01/Senior-Manager--Integrated-Client-Marketing-Operations_JR-147665) |
-| HVAC Platform Marketing Manager | marmon | USA\_TX\_Mesquite\_1755 E US Hwy 80 |  | 2026-11-17 | [Apply](https://marmon.wd501.myworkdayjobs.com/en-US/marmon_careers/job/USA_TX_Mesquite_1755-E-US-Hwy-80/HVAC-Platform-Marketing-Manager----_JR0000046970) |
-| Field Marketing Representative | 2020companies | Vacherie, LA |  | 2026-11-17 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Vacherie-LA/Field-Marketing-Representative_REQ_116927) |
-| Field Marketing Representative | 2020companies | Fort Wayne, IN |  | 2026-11-17 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Fort-Wayne-IN/Field-Marketing-Representative_REQ_116928) |
-| Senior Copywriter | Walmart | Los Angeles, CA |  | 2026-11-17 | [Apply](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/Los-Angeles-CA/Senior-Copywritter_R-2657137-1) |
-| Product Marketing Lead - Keynote Messaging | Salesforce | California - San Francisco |  | 2026-11-17 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Product-Marketing-Lead---Keynote-Messaging_JR367467) |
-| Marketing Analyst | whataburger | 300 Concord Plaza Dr San Antonio TX 78216-6903 |  | 2026-11-17 | [Apply](https://whataburger.wd5.myworkdayjobs.com/en-US/wab_careers/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Sales-Analyst_JR10014240) |
-| Senior Business Marketing Lead, North America | Wise | Austin, US |  | 2026-11-17 | [Apply](https://jobs.smartrecruiters.com/Wise/744000162090420) |
 <!-- JOBS_TABLE_END -->
 
 <details>
