@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>10,865</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,095</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 04:17 UTC</sub>
+<sub>Snapshot 2026-11-19 08:16 UTC</sub>
 
 </div>
 
@@ -50,12 +50,11 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**10,865 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**11,095 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Teens Make Health Happen Marketing & Communications Internship | HealthCorps | Flagstaff, Arizona, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/397BEF05E7) |
 | Sr. Integrated Marketing Specialist | Vuori, Inc | Carlsbad, CA, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/VuoriInc/744000162410609) |
 | International Digital Marketing Manager | Domino's | Ann Arbor, MI, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162416248) |
 | Senior Associate Consumer Marketing Manager | Domino's | Ann Arbor, MI, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162415922) |
@@ -72,11 +71,13 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | In House Marketing Representative- Cypress Palms Resort | wynd | Orlando area |  | 2026-11-19 | [Apply](https://wynd.wd5.myworkdayjobs.com/en-US/external/job/Orlando-area/Coordinator--Marketing-In-House-1_R-132105) |
 | Lead Product Marketing | att | Dallas, Texas |  | 2026-11-19 | [Apply](https://att.wd1.myworkdayjobs.com/en-US/attgeneral/job/Dallas-Texas/Lead-Product-Marketing_R-128900) |
 | 2027 Summer Corporate Intern - Communications | cat | 2 Locations |  | 2026-11-19 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423) |
+| Marketing Science Operations, Associate Director | amgen | US - California - Thousand Oaks |  | 2026-11-19 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Marketing-Science-Operations--Associate-Director_R-262025) |
 | Associate Director, US Immuno-Oncology Marketing, SCLC | astrazeneca | US - Gaithersburg - MD |  | 2026-11-19 | [Apply](https://astrazeneca.wd3.myworkdayjobs.com/en-US/careers/job/US---Gaithersburg---MD/Associate-Director--US-Immuno-Oncology-Marketing--SCLC_R-264653-1) |
 | Director, Growth Lifecycle and Product Marketing | Salesforce | 2 Locations |  | 2026-11-19 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Director--Growth-Lifecycle-and-Product-Marketing_JR367949) |
 | Senior Manager, Strategic Sales Support and Payer Marketing | CVS Health | 50 Locations |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Senior-Manager--Strategic-Sales-Support-and-Payer-Marketing_R1097630) |
 | Senior Manager, Marketing Planning - Front Store Strategic Marketing | CVS Health | 2 Locations |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Mgr-Strat-Marketing--IC-_R1052985) |
 | Marketing Manager, PCW Content Strategy | CVS Health | RI - Woonsocket |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Marketing-Manager--PCW-Content-Strategy_R1103777) |
+| Uplizna Neurology Medical Marketing Manager- Insights & Congress Planning - Rem... | amgen | 2 Locations |  | 2026-11-18 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---North-Carolina---Charlotte/Uplizna-Neurology-Medical-Marketing-Manager--Insights---Congress-Planning---Remote_R-262049) |
 | (Senior) Marketing Manager - Paid Social Strategy & Social Media Analytics (185... | JND | Plano, TX |  | 2026-11-18 | [Apply](https://jnd-inc.breezy.hr/p/eca6f74f2778-senior-marketing-manager-paid-social-strategy-social-media-analytics-18538-1) |
 | Copy Writer | vast | Long Beach, California, United States |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/vast/jobs/4730722006?gh_jid=4730722006) |
 | Field Marketing Manager, SLED (West & Central) | rubrik | United States |  | 2026-11-18 | [Apply](https://www.rubrik.com/company/careers/departments/job.8394488?gh_jid=8394488) |
@@ -204,7 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Analyst Relations Director | horizon3ai | US, Remote |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/horizon3ai/8f1c9ebb-18b3-4a6f-a256-d7982ca27938) |
 | Demand Generation Specialist | array | Remote - USA or Canada |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/array/jobs/6265272004?gh_jid=6265272004) |
 | Public Relations Assistant | AlphabeInsightInc | New Orleans, LA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162360168) |
-| Communications Associate | AlphabeInsightInc | New Orleans, LA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162358735) |
 <!-- JOBS_TABLE_END -->
 
 <details>
