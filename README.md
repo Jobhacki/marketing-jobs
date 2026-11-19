@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,095</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,214</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-19</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-19 08:16 UTC</sub>
+<sub>Snapshot 2026-11-19 12:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,17 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,095 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**11,214 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-19 12:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Public Safety Communications Officer | Albemarle County | Emergency Communication Center, Charlottesville, VA, US |  | 2026-11-19 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=4df55b5e-b4a5-403f-9092-dacc9436e865&ccId=19000101_000001&jobId=638686&lang=en_US&source=CC2) |
+| Head of Content & Communities | tryjeeves | United States |  | 2026-11-19 | [Apply](https://jobs.lever.co/tryjeeves/5040fb01-4a77-4e9d-a75d-c13be908ca68) |
+| Communications Director | City of New York | New York City, NY, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016958906) |
+| Citywide Marketing Manager | City of New York | New York City, NY, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990016959546) |
+| Senior Product Marketing Manager, In-House | Legora | New York City |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/legora/1404e89a-ec35-41c0-b6f7-a5cbfb25e1eb) |
+| Director, Demand Generation & ABM ($150k-$204k) | Conveo | New York |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/conveo/c61eaa07-f43d-4ef6-b4c8-7bcb8863ca36) |
 | Sr. Integrated Marketing Specialist | Vuori, Inc | Carlsbad, CA, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/VuoriInc/744000162410609) |
 | International Digital Marketing Manager | Domino's | Ann Arbor, MI, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162416248) |
 | Senior Associate Consumer Marketing Manager | Domino's | Ann Arbor, MI, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162415922) |
@@ -77,6 +83,15 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Senior Manager, Strategic Sales Support and Payer Marketing | CVS Health | 50 Locations |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Illinois/Senior-Manager--Strategic-Sales-Support-and-Payer-Marketing_R1097630) |
 | Senior Manager, Marketing Planning - Front Store Strategic Marketing | CVS Health | 2 Locations |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Sr-Mgr-Strat-Marketing--IC-_R1052985) |
 | Marketing Manager, PCW Content Strategy | CVS Health | RI - Woonsocket |  | 2026-11-19 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Marketing-Manager--PCW-Content-Strategy_R1103777) |
+| Social Media Coordinator | New York Road Runners | New York, NY, United States |  | 2026-11-18 | [Apply](https://jobs.jobvite.com/nyrr/job/oi87AfwR) |
+| Sr. Director, Strategic Growth Sales - PA Americas | Honeywell | Houston, TX, United States |  | 2026-11-18 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161203) |
+| Product Marketing Manager | Intertek | United States |  | 2026-11-18 | [Apply](https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/16333) |
+| EATON - Marketing Intern | Cummins | Galesburg, MI, United States |  | 2026-11-18 | [Apply](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2442606) |
+| Sales and Marketing Specialist | Sinclair | Rochester, NY, United States |  | 2026-11-18 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17655) |
+| Sales and Marketing Specialist | Sinclair | Kalamazoo, MI, United States |  | 2026-11-18 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17654) |
+| Sales and Marketing Specialist | Sinclair | Chattanooga, TN, United States |  | 2026-11-18 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17656) |
+| Product Marketing Manager / SR-WVB | Texas Instruments | Dallas, TX, United States |  | 2026-11-18 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020240) |
+| Product Marketing Engineer / SR-WVB | Texas Instruments | Dallas, TX, United States |  | 2026-11-18 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020236) |
 | Uplizna Neurology Medical Marketing Manager- Insights & Congress Planning - Rem... | amgen | 2 Locations |  | 2026-11-18 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---North-Carolina---Charlotte/Uplizna-Neurology-Medical-Marketing-Manager--Insights---Congress-Planning---Remote_R-262049) |
 | (Senior) Marketing Manager - Paid Social Strategy & Social Media Analytics (185... | JND | Plano, TX |  | 2026-11-18 | [Apply](https://jnd-inc.breezy.hr/p/eca6f74f2778-senior-marketing-manager-paid-social-strategy-social-media-analytics-18538-1) |
 | Copy Writer | vast | Long Beach, California, United States |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/vast/jobs/4730722006?gh_jid=4730722006) |
@@ -149,6 +164,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Field Marketing Representative | 2020companies | Pembroke, VA |  | 2026-11-18 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Pembroke-VA/Field-Marketing-Representative_REQ_117041) |
 | Field Marketing Representative | 2020companies | Odessa, TX |  | 2026-11-18 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Odessa-TX/Field-Marketing-Representative_REQ_117044) |
 | Senior Manager Product Growth - PayPal Ads | PayPal | 2 Locations |  | 2026-11-18 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Lead-Technical-Product-Manager--PayPal-Ads_R0138231) |
+| Direct Marketing Associate - Fort Myers | Andersencorp | Fort Myers, Florida |  | 2026-11-18 | [Apply](https://jobs.lever.co/andersencorp/f45dc9bb-df05-415c-b557-b232c88f9e0d) |
 | Head of Partner Marketing | Wiz, Inc. | Remote - USA |  | 2026-11-18 | [Apply](https://www.wiz.io/careers/job/4730112006/:title?gh_jid=4730112006) |
 | Social Media Manager | Vuori, Inc | Carlsbad, CA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/VuoriInc/744000162370269) |
 | Internal Communications Manager US | Turner & Townsend | Houston, Texas, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/TurnerTownsend/744000162351270) |
@@ -189,22 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Marketing Business Partner, Financial Services | HelloKindred | New York, NY, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/HelloKindred/3743990016937654) |
 | Marketing Business Partner, Financial Services | HelloKindred | Chicago, IL, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/HelloKindred/3743990016937856) |
 | Senior Associate, Marketing Operations (Remote) | ezcaterinc | Boston, MA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/ezcaterinc/jobs/5298696007) |
-| Communications Technical Coordinator | eositsolutions | Newark, California, United States |  | 2026-11-18 | [Apply](https://eosits.com/company/careers/?gh_jid=8948799002) |
-| Customer Marketing Manager | endorlabs | Palo Alto, CA |  | 2026-11-18 | [Apply](https://job-boards.greenhouse.io/endorlabs/jobs/4755856005) |
-| Lead, Growth Marketing | edreports | Remote |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/edreports/jobs/5300742007?gh_jid=5300742007) |
-| Associate Creative Director- Moen & House of Rohl | FortuneBrands | Deerfield, ILLINOIS, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/FortuneBrands/744000162365499) |
-| Field Marketing Manager | descript | San Francisco, CA |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/descript/jobs/8208515003?gh_jid=8208515003) |
-| Brand Media Lead, Programmatic | Whoop | Boston, MA |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/whoop/619cd151-82ea-4433-a16c-f55af9c133a9) |
-| Manager, Growth | brainlabs | United States |  | 2026-11-18 | [Apply](https://job-boards.eu.greenhouse.io/brainlabs/jobs/5036024101) |
-| Assistant Marketing Director, Crown (Hybrid) | Bertelsmann-Jobs | New York, New York (NY), US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000162360044) |
-| Channel Marketing Manager | Bertelsmann-Jobs | Morrisville, North Carolina (NC), US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000162381339) |
-| Communications Manager | profound | New York, New York |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/Profound/8693a249-a481-41e0-b8e5-daca1f071a5f) |
-| Sr. Product Marketing Manager | outtake | New York City |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/outtake/89ab9b75-0e65-4a5b-9c8c-19a4cb8e0d2e) |
-| Growth Associate, Field & ABM | listenlabs | San Francisco, New York |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/listenlabs/afb66a40-c47e-47fc-a708-20602d13e4c7) |
-| Growth Associate | Legora | New York City |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/legora/872b1159-f101-4428-be46-685a766d18c9) |
-| Analyst Relations Director | horizon3ai | US, Remote |  | 2026-11-18 | [Apply](https://jobs.ashbyhq.com/horizon3ai/8f1c9ebb-18b3-4a6f-a256-d7982ca27938) |
-| Demand Generation Specialist | array | Remote - USA or Canada |  | 2026-11-18 | [Apply](https://boards.greenhouse.io/array/jobs/6265272004?gh_jid=6265272004) |
-| Public Relations Assistant | AlphabeInsightInc | New Orleans, LA, US |  | 2026-11-18 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162360168) |
 <!-- JOBS_TABLE_END -->
 
 <details>
