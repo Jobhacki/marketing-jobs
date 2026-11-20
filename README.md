@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,313</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,325</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-20 04:17 UTC</sub>
+<sub>Snapshot 2026-11-20 08:16 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,313 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 04:17 UTC.** Apply links go to the employer's career page or hiring system.
+**11,325 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 08:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -83,16 +83,20 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Senior Director, Performance Marketing | campingworld | Lincolnshire, IL |  | 2026-11-20 | [Apply](https://campingworld.wd5.myworkdayjobs.com/en-US/jobs/job/Lincolnshire-IL/Senior-Director--Performance-Marketing_26_09813) |
 | Director, Digital Marketing | seminolehardrock | Hard Rock Hotel & Casino Las Vegas |  | 2026-11-20 | [Apply](https://seminolehardrock.wd503.myworkdayjobs.com/en-US/seminolehardrockcareers/job/Hard-Rock-Hotel--Casino-Las-Vegas/Director--Digital-Marketing_R17927) |
 | Senior Product Marketing Manager, Flight Operations | boeing | 2 Locations |  | 2026-11-20 | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seattle-WA/Senior-Product-Marketing-Manager--Flight-Operations_JR2026530329) |
+| Marketing Events Expert | HP | Spring, Texas, United States of America |  | 2026-11-20 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Marketing-Events-Expert_3170497-1) |
 | Senior Associate, Social Content Creator — Brand Video Center of Excellence | Capital One | 2 Locations |  | 2026-11-20 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Richmond-VA/Senior-Associate--Social-Content-Creator---Brand-Video-Center-of-Excellence_R1005988-1) |
 | Senior Associate Marketing Automation Specialist / Retail Bank | Capital One | 2 Locations |  | 2026-11-20 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate-Marketing-Automation-Specialist---Retail-Bank_R1006277-1) |
 | Communications Specialist / Careflight | Avera Health | Sioux Falls, SD |  | 2026-11-20 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Communications-Specialist---Careflight_R-260031920-1) |
 | Associate, Growth | united-talent-agency | New York, NY |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/united-talent-agency/25e5ca95-d9ff-4e2a-960e-eb4dcf69030b) |
 | Senior Associate, Growth AI | clera | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Clera/d9afee0e-e7bb-4150-b99c-45aadc2bc2ac) |
+| Communications and Outreach Manager - Jefferson City, MO | Catholic Diocese of Jefferson City | Jefferson City, MO |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678691) |
+| Social Media Content Creator-SW | Ohio Wesleyan University | Delaware, OH, US |  | 2026-11-19 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a2082ac8-6363-4a1c-92d0-adacd9e4f844&ccId=19000101_000001&jobId=609051&lang=en_US&source=CC2) |
+| Editorial Content Strategist | Thorlabs | Newton, New Jersey, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/A030CD5A6A) |
+| Strategic Sourcing Manager - Marketing | PayPal | 5 Locations |  | 2026-11-19 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Strategic-Sourcing-Manager---Marketing_R0139197-1) |
+| Field Marketing Manager, Americas | Xsolla | Los Angeles, United States |  | 2026-11-19 | [Apply](https://jobs.lever.co/xsolla/774add71-dde5-42f9-9b25-11618d7b60d8) |
+| Director of Product Marketing | cents | New York, NY |  | 2026-11-19 | [Apply](https://jobs.lever.co/cents/4a5f5527-7b0a-4909-a6f6-09031aa31e62) |
 | (Senior) Marketing Manager - Consumer & Market Insights Research (18623-1) | JND | Plano, TX |  | 2026-11-19 | [Apply](https://jnd-inc.breezy.hr/p/a7cfcfa6aebf-senior-marketing-manager-consumer-market-insights-research-18623-1) |
 | (Mid Level) Marketing Analyst - B2B Display Product Launch & Campaign Tracking... | JND | Plano, TX |  | 2026-11-19 | [Apply](https://jnd-inc.breezy.hr/p/1ae993b0383a-mid-level-marketing-analyst-b2b-display-product-launch-campaign-tracking-18052-1) |
-| Director, Integrated Marketing Communications | Simple Mills | Chicago, Illinois, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/09559FA14E) |
-| Digital Content Marketing Manager | Simple Mills | Chicago, Illinois, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/DBA507A0BE) |
-| Head of Partner Marketing and Activation | Rockstar | Austin, Texas, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/A03FFA5CE5) |
 | Social Media Manager | wing | Palo Alto, California |  | 2026-11-19 | [Apply](https://wing.com/careers/8949075002?gh_jid=8949075002) |
 | Technical Product Marketing Manager | Tolmo | San Francisco |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/tolmo/8f209250-4598-4399-af6c-7d3bc968afdf) |
 | Field Marketing Manager | Tolmo | San Francisco |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/tolmo/c53585b8-fbaf-4ef4-89a4-6aaf1e14d215) |
@@ -201,10 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Growth Marketing Lead | lawhive | New York City |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/lawhive/f50ebad2-5dc6-499c-bb19-b546cfe025f0) |
 | Growth Marketing Lead | lawhive | Austin |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/lawhive/92322c95-7f63-42e7-bbd8-c59b6817b944) |
 | Communication Specialist | horizon3ai | New York City, NY |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/horizon3ai/2b766821-733d-402a-aba1-52228b997e09) |
-| Senior B2B Performance Marketing Manager | hopper | United States - Remote |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/hopper/93248c9a-945c-4e2f-8fbb-a8b77b06cb20) |
-| Events & Community Manager | highbeam | New York |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/highbeam/6916a925-cd19-46ac-ab57-dbc696e0e81d) |
-| Senior Field Marketing Manager | array | Remote - USA or Canada |  | 2026-11-19 | [Apply](https://boards.greenhouse.io/array/jobs/6265107004?gh_jid=6265107004) |
-| Director of Client Growth - USA | Conveo | New York |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/conveo/dc512276-ef7f-48d5-a5bd-dce7ad22bf99) |
 <!-- JOBS_TABLE_END -->
 
 <details>
