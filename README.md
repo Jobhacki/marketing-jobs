@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,325</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,247</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-20</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-20 08:16 UTC</sub>
+<sub>Snapshot 2026-11-20 12:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,17 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,325 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 08:16 UTC.** Apply links go to the employer's career page or hiring system.
+**11,247 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-20 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Communications and Public Affairs Specialist | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1925) |
+| Vice President, Communications | THIF | Boston, MA, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b7da2162-70c0-40a5-b0ad-6d058ed83b61&ccId=19000101_000001&jobId=696018&lang=en_US&source=CC2) |
+| Senior Growth Marketing Manager | kabam | Culver City |  | 2026-11-20 | [Apply](https://jobs.lever.co/kabam/c8619bb9-b674-45eb-a4dd-726c3a45d3e3) |
+| Senior Partner Marketing Manager | Prolific | United States |  | 2026-11-20 | [Apply](https://job-boards.eu.greenhouse.io/prolific/jobs/5043228101) |
+| (Intern) Founders Associate Intern (Growth) | tacto | Chicago |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/tacto/776490ef-95ff-48fd-8681-ae3688cb1454) |
+| Affiliate Manager (Remote - Georgia) | everai | Georgia |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/everai/1755cc5a-a168-4bf6-983d-6230422e93eb) |
 | Manager, Global Marketing Strategy & Market Intelligence | abbott | United States - California - Santa Clara |  | 2026-11-20 | [Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers/job/United-States---California---Santa-Clara/Senior-Manager--Global-Marketing-Strategy---Market-Intelligence_31164312-1) |
 | Marketing Coordinator - Events & Conferences | axos | San Diego, CA |  | 2026-11-20 | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/axos/job/San-Diego-CA/Marketing-Coordinator---Events---Conferences_JR5889) |
 | Project & Program Management IV - Communications | astreya | Oakland, CA |  | 2026-11-20 | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Oakland-CA/Project---Program-Management-IV---Communications_R0018447) |
@@ -89,12 +95,21 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Communications Specialist / Careflight | Avera Health | Sioux Falls, SD |  | 2026-11-20 | [Apply](https://avera.wd5.myworkdayjobs.com/en-US/avera-careers/job/Sioux-Falls-SD/Communications-Specialist---Careflight_R-260031920-1) |
 | Associate, Growth | united-talent-agency | New York, NY |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/united-talent-agency/25e5ca95-d9ff-4e2a-960e-eb4dcf69030b) |
 | Senior Associate, Growth AI | clera | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Clera/d9afee0e-e7bb-4150-b99c-45aadc2bc2ac) |
+| Intern - Marketing | Zions Bank | Phoenix, AZ, US |  | 2026-11-19 | [Apply](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=072202&lang=en) |
+| Director, Communications | AAR | Wood Dale, IL, US |  | 2026-11-19 | [Apply](https://aarcorp.taleo.net/careersection/aar_mobile/jobdetail.ftl?job=19064&lang=en) |
+| Water PMCM Growth Leader | Stantec | San Diego, CA, United States |  | 2026-11-19 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008960) |
+| Brand & Product Marketing Strategist III (Cards and Payments) | Navy Federal | Vienna, VA, United States |  | 2026-11-19 | [Apply](https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33786) |
+| Strategic Growth Team (SGT) Manager | WSP | Seattle, WA, United States |  | 2026-11-19 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99685) |
+| Oracle Health Communications Consultant, End User Engagement - Arlington VA off... | Oracle | Arlington, VA, United States |  | 2026-11-19 | [Apply](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/344339) |
+| VP, Communications | Michael Baker International | United States |  | 2026-11-19 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310212) |
+| Vice President of Marketing-Faith Based | Red Envelope Consulting | Fishers, IN |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4676114) |
+| Senior Manager, Paid Media Strategy | Bhg Inc | Remote |  | 2026-11-19 | [Apply](https://jobs.lever.co/bhg-inc/ad2da69d-a8d8-4560-a0b4-1c6fdf1ea036) |
+| Email Marketing Specialist | Bhg Inc | Remote |  | 2026-11-19 | [Apply](https://jobs.lever.co/bhg-inc/ab8e4940-8f54-48fd-93a2-cfa767dbbcfa) |
+| Sr. Manager, Field Marketing | filevine | District of Columbia |  | 2026-11-19 | [Apply](https://jobs.lever.co/filevine/fc3a59ed-7426-4f61-8c50-b12d156afa32) |
+| Sr. Manager, Field Marketing | filevine | New York City, NY |  | 2026-11-19 | [Apply](https://jobs.lever.co/filevine/c9d6dbff-1ef2-4c29-934e-f36507bade4c) |
+| Sr. Manager, Field Marketing | filevine | Pennsylvania |  | 2026-11-19 | [Apply](https://jobs.lever.co/filevine/a05d440c-023c-4ad2-8324-a9948e6f83d4) |
 | Communications and Outreach Manager - Jefferson City, MO | Catholic Diocese of Jefferson City | Jefferson City, MO |  | 2026-11-19 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4678691) |
-| Social Media Content Creator-SW | Ohio Wesleyan University | Delaware, OH, US |  | 2026-11-19 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=a2082ac8-6363-4a1c-92d0-adacd9e4f844&ccId=19000101_000001&jobId=609051&lang=en_US&source=CC2) |
-| Editorial Content Strategist | Thorlabs | Newton, New Jersey, US |  | 2026-11-19 | [Apply](https://apply.workable.com/j/A030CD5A6A) |
 | Strategic Sourcing Manager - Marketing | PayPal | 5 Locations |  | 2026-11-19 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Strategic-Sourcing-Manager---Marketing_R0139197-1) |
-| Field Marketing Manager, Americas | Xsolla | Los Angeles, United States |  | 2026-11-19 | [Apply](https://jobs.lever.co/xsolla/774add71-dde5-42f9-9b25-11618d7b60d8) |
-| Director of Product Marketing | cents | New York, NY |  | 2026-11-19 | [Apply](https://jobs.lever.co/cents/4a5f5527-7b0a-4909-a6f6-09031aa31e62) |
 | (Senior) Marketing Manager - Consumer & Market Insights Research (18623-1) | JND | Plano, TX |  | 2026-11-19 | [Apply](https://jnd-inc.breezy.hr/p/a7cfcfa6aebf-senior-marketing-manager-consumer-market-insights-research-18623-1) |
 | (Mid Level) Marketing Analyst - B2B Display Product Launch & Campaign Tracking... | JND | Plano, TX |  | 2026-11-19 | [Apply](https://jnd-inc.breezy.hr/p/1ae993b0383a-mid-level-marketing-analyst-b2b-display-product-launch-campaign-tracking-18052-1) |
 | Social Media Manager | wing | Palo Alto, California |  | 2026-11-19 | [Apply](https://wing.com/careers/8949075002?gh_jid=8949075002) |
@@ -190,21 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Demand Generation Campaign Manager | Figma | San Francisco, CA • New York, NY • United States |  | 2026-11-19 | [Apply](https://boards.greenhouse.io/figma/jobs/6261239004?gh_jid=6261239004) |
 | CRM Lifecycle Specialist | fanaticsfbg | United States |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/fanaticsfbg/jobs/4512266009) |
 | Marketing Specialist, Retail Direct | CornerstoneBuildingBrandsCareers | Houston, TX, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/CornerstoneBuildingBrandsCareers/3743990016977246) |
-| Art Director - Brand | Datadog | New York, New York, USA |  | 2026-11-19 | [Apply](https://careers.datadoghq.com/detail/8400585/?gh_jid=8400585) |
-| Digital Marketing Analyst | cleo | Remote |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/cleo/jobs/4756418005) |
-| Marketing Development Representative | socure | Hub - San Francisco |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/socure/6a3f46e7-4208-41e6-832c-ff31a175d2ae) |
-| Senior Brand Designer | siftstack | San Francisco, CA |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/siftstack/5e0cb9a6-528c-4228-be8d-a9ccfe9235b8) |
-| Senior Brand Designer | siftstack | Marina Del Rey, CA |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/siftstack/cfbe4664-7d4d-4112-8add-d71f1df8cb4d) |
-| Brand Designer | siftstack | Marina Del Rey, CA |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/siftstack/ea4df7c7-1238-4334-b32d-993627777b76) |
-| VP of Policy and Communications | Charlie Health | New York, New York, United States |  | 2026-11-19 | [Apply](https://www.charliehealth.com/careers?gh_jid=6266336004) |
-| Product Marketing Manager | buildkite | Australia or US - West Coast |  | 2026-11-19 | [Apply](https://job-boards.greenhouse.io/buildkite/jobs/5487160008) |
-| Data Science Leader, B2B Marketing & Demand Generation | openai | San Francisco |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/openai/145f2801-4c59-4e90-a847-32085d20511c) |
-| Market Research Manager | Avery Dennison | Mentor, OH, US |  | 2026-11-19 | [Apply](https://jobs.smartrecruiters.com/AveryDennison/744000162586459) |
-| Product Marketing Manager | optro | United States |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/optro/e18cefd8-1209-4c53-943d-cb442a0a7035) |
-| VP, Demand Generation (Remote) | optro | United States |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/optro/057f05b4-c618-4baa-becb-6a8312a23aa4) |
-| Growth Marketing Lead | lawhive | New York City |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/lawhive/f50ebad2-5dc6-499c-bb19-b546cfe025f0) |
-| Growth Marketing Lead | lawhive | Austin |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/lawhive/92322c95-7f63-42e7-bbd8-c59b6817b944) |
-| Communication Specialist | horizon3ai | New York City, NY |  | 2026-11-19 | [Apply](https://jobs.ashbyhq.com/horizon3ai/2b766821-733d-402a-aba1-52228b997e09) |
 <!-- JOBS_TABLE_END -->
 
 <details>
