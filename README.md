@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,473</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,515</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-21 00:17 UTC</sub>
+<sub>Snapshot 2026-11-21 04:16 UTC</sub>
 
 </div>
 
@@ -50,12 +50,16 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,473 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 00:17 UTC.** Apply links go to the employer's career page or hiring system.
+**11,515 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 04:16 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Sr. Growth Marketing Manager | ADP employer ed9eb938 | 10X Centre - FL, AVENTURA, FL, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ed9eb938-98c0-474a-beeb-ae5497b8e045&ccId=19000101_000001&jobId=592726&lang=en_US&source=CC2) |
+| GROWTH OPPORTUNITIES Shift Lead (7527) | Domino's | West Valley City, UT, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000162945419) |
+| Product Marketing Manager | sciforium | San Francisco, CA |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Sciforium/ef60d411-6f56-4afb-8598-140033f21ebc) |
+| Integrated Marketing Manager | openai | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/openai/62032f94-87e8-45b8-968c-db9b8893e907) |
+| Staff Product Brand Designer | harvey | New York |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/harvey/1d43719f-da4a-4cb8-8865-d971107bd1f2) |
+| Head of Marketing | clera | Los Angeles |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/6b63b79e-7c60-46cf-8f9d-a618175a656d) |
 | Director of Marketing - Hybrid | 9dot | Pasadena, CA |  | 2026-11-21 | [Apply](https://9dot.wd503.myworkdayjobs.com/en-US/skyrocket/job/Pasadena-CA/Director-of-Marketing---Hybrid_R016850) |
 | Social Media Manager | bso | Boston |  | 2026-11-21 | [Apply](https://bso.wd1.myworkdayjobs.com/en-US/bso/job/Boston/Social-Media-Manager_JR450-1) |
 | Content & Communications Specialist | phillipsedison | Cincinnati |  | 2026-11-21 | [Apply](https://phillipsedison.wd503.myworkdayjobs.com/en-US/peco/job/Cincinnati/Content---Communications-Specialist_JR100111) |
@@ -74,10 +78,10 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Marketing and Public Relations Manager | asmglobal | San Diego, CA |  | 2026-11-21 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/San-Diego-CA/Marketing-and-Public-Relations-Manager_R100126719) |
 | Executive Communications, Senior Manager | Salesforce | California - San Francisco |  | 2026-11-21 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Executive-Communications--Senior-Manager_JR368402) |
 | CMX Marketing Strategy Senior Manager - CVS Media Exchange (CMX) | CVS Health | 4 Locations |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Senior-Manager--Category-Marketing---CVS-Media-Exchange--CMX-_R1036875) |
-| Ad Creative Strategist | Decentralized Masters | Miami, Florida, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/4AD3FF1710) |
-| Marketing Director | Dean Dorton | Lexington, Kentucky, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/680FD6FC47) |
-| Marketing Operations Intern | Clean Power Alliance | Los Angeles, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/C7FFF71FEA) |
-| SVP, Brand Strategy | Avalerehealth | Remote (US) |  | 2026-11-20 | [Apply](https://jobs.lever.co/avalerehealth/48e22258-1145-4daf-9012-ef88ca6f0cb4) |
+| Director, Partner Marketing | Vercel | Hybrid - San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6268187004) |
+| Marketing and Communications Manager | underscoremarketing | Remote-United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/underscoremarketing/jobs/4518104009) |
+| Vice President, Global Scientific Communications, Medical Information, Content... | revolutionmedicines | Redwood City, California, United States |  | 2026-11-20 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8209588003) |
+| Creative Strategist | thuma | San Francisco, California |  | 2026-11-20 | [Apply](https://jobs.lever.co/thuma/1cd11c88-32fe-43dd-bc8f-8efac7f0b22d) |
 | Influencer Marketing Manager | withcoverage | New York City |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/withcoverage/jobs/4517719009) |
 | Go-to-Market Media Specialist | Tanium | Durham, NC (Hybrid); Reston, VA (Hybrid) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8407130) |
 | Manager, Marketing Operations and Analytics | Per Scholas | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4730993006) |
@@ -201,10 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Communications and Public Affairs Specialist | Arlington County VA | Arlington, VA, United States |  | 2026-11-20 | [Apply](https://fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1925) |
 | Senior Partner Marketing Manager | Prolific | United States |  | 2026-11-20 | [Apply](https://job-boards.eu.greenhouse.io/prolific/jobs/5043228101) |
 | (Intern) Founders Associate Intern (Growth) | tacto | Chicago |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/tacto/776490ef-95ff-48fd-8681-ae3688cb1454) |
-| Affiliate Manager (Remote - Georgia) | everai | Georgia |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/everai/1755cc5a-a168-4bf6-983d-6230422e93eb) |
-| Marketing Coordinator - Events & Conferences | axos | San Diego, CA |  | 2026-11-20 | [Apply](https://axos.wd5.myworkdayjobs.com/en-US/axos/job/San-Diego-CA/Marketing-Coordinator---Events---Conferences_JR5889) |
-| Project & Program Management IV - Communications | astreya | Oakland, CA |  | 2026-11-20 | [Apply](https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Oakland-CA/Project---Program-Management-IV---Communications_R0018447) |
-| Technical Communications Specialist | LLNL | Livermore, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/LLNL/3743990016985591) |
 <!-- JOBS_TABLE_END -->
 
 <details>
