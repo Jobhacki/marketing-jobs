@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,556</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,453</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-21</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-21 12:17 UTC</sub>
+<sub>Snapshot 2026-11-21 16:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,556 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 12:17 UTC.** Apply links go to the employer's career page or hiring system.
+**11,453 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-21 16:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -81,6 +81,8 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Marketing and Public Relations Manager | asmglobal | San Diego, CA |  | 2026-11-21 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/San-Diego-CA/Marketing-and-Public-Relations-Manager_R100126719) |
 | Executive Communications, Senior Manager | Salesforce | California - San Francisco |  | 2026-11-21 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Executive-Communications--Senior-Manager_JR368402) |
 | CMX Marketing Strategy Senior Manager - CVS Media Exchange (CMX) | CVS Health | 4 Locations |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Senior-Manager--Category-Marketing---CVS-Media-Exchange--CMX-_R1036875) |
+| Senior Copywriter | Impact Theory | Los Angeles, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/4D647F91D1) |
+| Technical Marketing Engineering Intern, Digital Biology and Scientific Computin... | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) |
 | Enterprise Communications Assistant | Northwell Health | Mount Kisco, Westchester, United States |  | 2026-11-20 | [Apply](https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/190086) |
 | Specialist, Content Producer Communications | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-20 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74228) |
 | Specialist, Communications Designer | Ford Motor Company | Dearborn, MI, United States |  | 2026-11-20 | [Apply](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74227) |
@@ -90,17 +92,13 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Director, Growth Marketing | Michael Baker International | United States |  | 2026-11-20 | [Apply](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310217) |
 | Marketing & Communications Intern (2027 Internship Program) | DTCC | Jersey City, NJ, United States |  | 2026-11-20 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215290) |
 | Marketing Coordinator | Atronic Alarms | Lenexa, KS |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683155) |
-| Sr. Manager, SEO & AEO | Bob’s Watches | Newport Beach, CA, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=07a1bcd7-4b41-451c-bf91-b5f16cd52517&ccId=19000101_000001&jobId=638798&lang=en_US&source=CC2) |
-| COMMUNICATIONS & MARKETING COORDINATOR | Bethany College | Main Campus, Lindsborg, KS, US |  | 2026-11-20 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=06849628-1ff9-4555-9b68-cb637d20bae8&ccId=19000101_000001&jobId=625192&lang=en_US&source=CC2) |
-| Creator Growth & Community Manager Bay Area, Hybrid | Fuku | San Francisco, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/B875822A2C) |
-| Creator Growth & Community Manager Bay Area, Hybrid | Fuku | San Francisco, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/2B235FD916) |
 | Product Marketing Intern, DGX Products - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1) |
-| Growth Marketing Manager, Olo Network | olo | New York City, NY |  | 2026-11-20 | [Apply](https://jobs.lever.co/olo/94dd7aa8-f79b-40e9-b056-ae1555c6afb9) |
 | Communications Specialist | MDI Hospital | Bar Harbor, ME |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681054) |
 | VICE PRESIDENT OF GAMING OPERATIONS & CASINO MARKETING | Plaza Hotel & Casino LLC | Las Vegas, NV |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670602) |
 | Director, Partner Marketing | Vercel | Hybrid - San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6268187004) |
 | Marketing and Communications Manager | underscoremarketing | Remote-United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/underscoremarketing/jobs/4518104009) |
 | Vice President, Global Scientific Communications, Medical Information, Content... | revolutionmedicines | Redwood City, California, United States |  | 2026-11-20 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8209588003) |
+| SVP, Brand Strategy | Avalerehealth | Remote (US) |  | 2026-11-20 | [Apply](https://jobs.lever.co/avalerehealth/48e22258-1145-4daf-9012-ef88ca6f0cb4) |
 | Influencer Marketing Manager | withcoverage | New York City |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/withcoverage/jobs/4517719009) |
 | Go-to-Market Media Specialist | Tanium | Durham, NC (Hybrid); Reston, VA (Hybrid) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8407130) |
 | Manager, Marketing Operations and Analytics | Per Scholas | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4730993006) |
@@ -202,9 +200,11 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Frontier Ranch- Guest Group Communications Coordinator/Admin Assistant II | younglife | Buena Vista, CO |  | 2026-11-20 | [Apply](https://younglife.wd5.myworkdayjobs.com/en-US/younglife_careers/job/Buena-Vista-CO/Frontier-Ranch--Guest-Group-Communications-Coordinator-Admin-Assistant-II_JR106506-1) |
 | Commodity Marketing Coordinator | nc | Wake County, NC |  | 2026-11-20 | [Apply](https://nc.wd108.myworkdayjobs.com/en-US/nc_careers/job/Wake-County-NC/Commodity-Marketing-Coordinator_JR-129052) |
 | Digital Marketing Consultant – Paid Media Platform Owner | cat | Irving, Texas |  | 2026-11-20 | [Apply](https://cat.wd5.myworkdayjobs.com/en-US/caterpillarcareers/job/Irving-Texas/Digital-Marketing-Consultant---Paid-Media-Platform-Owner_R0000406476-1) |
-| Customer Marketing & Community Manager | Quantum Workplace | Remote |  | 2026-11-20 | [Apply](https://jobs.lever.co/QuantumWorkplace/2008410b-8fa1-4802-bf8d-e64b67df9e8f) |
 | Sr. Visual Designer- AI, 3D, and Social (Los Angeles, CA Based) | wearerosie | Los Angeles, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/wearerosie/3743990016997601) |
 | Social-first Copywriter | wearerosie | Atlanta, GA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/wearerosie/3743990016998247) |
+| Product Marketing Coordinator | withmeinc | US Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/withmeinc/jobs/5477404008) |
+| Vice President, Product Marketing, Competitive Intelligence & Market Insights | Toast | Remote, United States |  | 2026-11-20 | [Apply](https://careers.toasttab.com/jobs?gh_jid=8379408) |
+| Digital Media Specialist | rushstreetinteractive | USA - Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/6265462004) |
 <!-- JOBS_TABLE_END -->
 
 <details>
