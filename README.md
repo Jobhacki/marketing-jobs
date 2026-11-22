@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,434</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,425</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 08:17 UTC</sub>
+<sub>Snapshot 2026-11-22 12:17 UTC</sub>
 
 </div>
 
@@ -50,15 +50,15 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,434 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**11,425 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Sr. Paid Search Marketing Manager (PPC) | PlanetArt | Pleasanton, California, US |  | 2026-11-22 | [Apply](https://apply.workable.com/j/876218D402) |
-| Senior Paid Search Marketing Manager | PlanetArt | Pleasanton, California, US |  | 2026-11-22 | [Apply](https://apply.workable.com/j/5F65EC9AB4) |
 | Regional Marketing Manager | clearchanneloutdoor | Phoenix, AZ (Camelback) |  | 2026-11-22 | [Apply](https://clearchanneloutdoor.wd5.myworkdayjobs.com/en-US/cco/job/Phoenix-AZ-Camelback/Regional-Marketing-Manager_Req24210) |
 | GROWTH OPPORTUNITIES Shift Lead (7539) | Domino's | West Jordan, UT, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163069740) |
+| Summer Intern: Marketing & Brand Engagement | ADP employer 57a31989 | Philadelphia, PA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=57a31989-d414-4f1f-9309-a4a1f71a652d&ccId=19000101_000001&jobId=943277&lang=en_US&source=CC2) |
+| Summer Intern: Communications | ADP employer 57a31989 | Philadelphia, PA, US |  | 2026-11-21 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=57a31989-d414-4f1f-9309-a4a1f71a652d&ccId=19000101_000001&jobId=943269&lang=en_US&source=CC2) |
 | Social Media Strategist | Exa | San Francisco, California |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/exa/fdecb657-e185-4fb4-b04c-d2c1fec240ff) |
 | Marketing Lead | clera | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/6a5e5ad1-1a55-4f7c-961f-e5cc32d867e7) |
 | Solution Marketing Campaign Director, Employee Experience | ServiceNow | Santa Clara, CALIFORNIA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162954819) |
@@ -87,6 +87,11 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Marketing and Public Relations Manager | asmglobal | San Diego, CA |  | 2026-11-21 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/San-Diego-CA/Marketing-and-Public-Relations-Manager_R100126719) |
 | Executive Communications, Senior Manager | Salesforce | California - San Francisco |  | 2026-11-21 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Executive-Communications--Senior-Manager_JR368402) |
 | CMX Marketing Strategy Senior Manager - CVS Media Exchange (CMX) | CVS Health | 4 Locations |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Senior-Manager--Category-Marketing---CVS-Media-Exchange--CMX-_R1036875) |
+| Sales and Marketing | COUNTRYSIDE RENTALS, INC. | Wilmington, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682477) |
+| Product Marketing Manager | talentpluto | New York, New York, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/F008B8F65C) |
+| Head of Marketing | talentpluto | San Francisco, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/B14FA5E931) |
+| Head of Demand Generation | talentpluto | New York, New York, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/1AA9241ED6) |
+| Social Media Marketing Specialist | St. Joe County Public Library | South Bend, Indiana, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/BE0229B412) |
 | Marketing Content & Events Assistant - Part Time | Teton Toyota | Idaho Falls, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4593244) |
 | Digital Communications Specialist | 165673 - Kids' Food Basket | Grand Rapids, MI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681850) |
 | Technical Marketing Engineering Intern, Digital Biology and Scientific Computin... | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793) |
@@ -100,13 +105,11 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Marketing & Communications Intern (2027 Internship Program) | DTCC | Jersey City, NJ, United States |  | 2026-11-20 | [Apply](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/215290) |
 | Marketing Coordinator | Atronic Alarms | Lenexa, KS |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683155) |
 | Product Marketing Intern, DGX Products - Summer 2027 | NVIDIA | US, CA, Santa Clara |  | 2026-11-20 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1) |
-| Growth Marketing Manager, Olo Network | olo | New York City, NY |  | 2026-11-20 | [Apply](https://jobs.lever.co/olo/94dd7aa8-f79b-40e9-b056-ae1555c6afb9) |
 | Communications Specialist | MDI Hospital | Bar Harbor, ME |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681054) |
 | VICE PRESIDENT OF GAMING OPERATIONS & CASINO MARKETING | Plaza Hotel & Casino LLC | Las Vegas, NV |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4670602) |
 | Director, Partner Marketing | Vercel | Hybrid - San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6268187004) |
 | Marketing and Communications Manager | underscoremarketing | Remote-United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/underscoremarketing/jobs/4518104009) |
 | Vice President, Global Scientific Communications, Medical Information, Content... | revolutionmedicines | Redwood City, California, United States |  | 2026-11-20 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8209588003) |
-| SVP, Brand Strategy | Avalerehealth | Remote (US) |  | 2026-11-20 | [Apply](https://jobs.lever.co/avalerehealth/48e22258-1145-4daf-9012-ef88ca6f0cb4) |
 | Influencer Marketing Manager | withcoverage | New York City |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/withcoverage/jobs/4517719009) |
 | Go-to-Market Media Specialist | Tanium | Durham, NC (Hybrid); Reston, VA (Hybrid) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8407130) |
 | Manager, Marketing Operations and Analytics | Per Scholas | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4730993006) |
@@ -158,6 +161,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Solutions Marketing Manager - Data Center | shi | 2 Locations |  | 2026-11-20 | [Apply](https://shi.wd12.myworkdayjobs.com/en-US/shicareers/job/Austin-TX-USA/Solutions-Marketing-Manager---Data-Center_JR4097) |
 | Product Marketing Manager | brighthorizons | Newton Massachusetts 02459 |  | 2026-11-20 | [Apply](https://brighthorizons.wd5.myworkdayjobs.com/en-US/external-northamerica/job/Newton-Massachusetts-02459/Product-Marketing-Manager_JR-147741) |
 | Senior Director, Client Marketing | brighthorizons | Newton Massachusetts 02459 |  | 2026-11-20 | [Apply](https://brighthorizons.wd5.myworkdayjobs.com/en-US/external-northamerica/job/Newton-Massachusetts-02459/Senior-Director--Client-Marketing_JR-144069-1) |
+| Senior Marketing Manager, KRYSTEXXA | amgen | United States - Remote |  | 2026-11-20 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Senior-Marketing-Manager--KRYSTEXXA_R-261397) |
 | Summer 2027 Intern - Field Marketing, Missionforce | Salesforce | Virginia - Mclean |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Field-Marketing--Missionforce_JR369144-1) |
 | Summer 2027 Intern - Product Marketing, Missionforce | Salesforce | California - San Francisco |  | 2026-11-20 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Marketing--Missionforce_JR369152-1) |
 | Business Manager, Marketing, Analytics & Product Strategy | Capital One | 2 Locations |  | 2026-11-20 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Business-Manager--Marketing--Analytics---Product-Strategy_R1000962) |
@@ -201,10 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Sr Event Marketing & Strategy Manager | d-matrix | Remote |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/d-Matrix/3d463fb6-b9f2-40c5-a5af-b66e741afef9) |
 | Growth & Marketing Intern / New Grad | clera | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Clera/5a07317b-8255-458f-a028-9dc0ee78abaa) |
 | Social Media Content Producer | campus | Campus NYC |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/campus/741dfecb-60e5-41db-8914-62a9f3a373b2) |
-| Director, Product Marketing | affinipay1 | Remote - US |  | 2026-11-20 | [Apply](https://www.8am.com/openings/?gh_jid=4730314006) |
-| Director, Filler Customer Marketing | AbbVie | Irvine, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016998768) |
-| Vice President, Storytelling & Communications | 6sense | United States, Remote |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/6sense/jobs/8406391?gh_jid=8406391) |
-| Frontier Ranch- Guest Group Communications Coordinator/Admin Assistant II | younglife | Buena Vista, CO |  | 2026-11-20 | [Apply](https://younglife.wd5.myworkdayjobs.com/en-US/younglife_careers/job/Buena-Vista-CO/Frontier-Ranch--Guest-Group-Communications-Coordinator-Admin-Assistant-II_JR106506-1) |
 <!-- JOBS_TABLE_END -->
 
 <details>
