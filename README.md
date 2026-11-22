@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,469</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,514</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 16:18 UTC</sub>
+<sub>Snapshot 2026-11-22 20:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,18 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,469 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 16:18 UTC.** Apply links go to the employer's career page or hiring system.
+**11,514 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 20:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Paid Media Manager | court-avenue | Office - Chicago, IL |  | 2026-11-22 | [Apply](https://jobs.lever.co/court-avenue/00485abd-0de5-4205-83ab-430da5bd627e) |
+| GEO & SEO Strategist | court-avenue | Office - Cincinnati, OH |  | 2026-11-22 | [Apply](https://jobs.lever.co/court-avenue/90fa52fa-a960-42e6-8efd-37153153f889) |
+| Field Marketing Associate | numeric | San Francisco |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/numeric/d58c1011-f7c0-4a03-b8ef-b382f63aec18) |
+| Advertising Agent | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097029) |
+| Promotional Marketing Specialist | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097889) |
+| Head of Campaign Operations | Anthropic | San Francisco, CA / New York City, NY |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491578008) |
+| Campaign Manager | Anthropic | San Francisco, CA / New York City, NY |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491575008) |
 | Regional Marketing Manager | clearchanneloutdoor | Phoenix, AZ (Camelback) |  | 2026-11-22 | [Apply](https://clearchanneloutdoor.wd5.myworkdayjobs.com/en-US/cco/job/Phoenix-AZ-Camelback/Regional-Marketing-Manager_Req24210) |
 | GROWTH OPPORTUNITIES Shift Lead (7539) | Domino's | West Jordan, UT, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163069740) |
 | Social Media Strategist | Exa | San Francisco, California |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/exa/fdecb657-e185-4fb4-b04c-d2c1fec240ff) |
@@ -86,7 +93,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Executive Communications, Senior Manager | Salesforce | California - San Francisco |  | 2026-11-21 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Executive-Communications--Senior-Manager_JR368402) |
 | CMX Marketing Strategy Senior Manager - CVS Media Exchange (CMX) | CVS Health | 4 Locations |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Senior-Manager--Category-Marketing---CVS-Media-Exchange--CMX-_R1036875) |
 | Marketing and Communications Associate | SGA Youth & Family Services | Chicago, IL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684387) |
-| Director, Advocacy & Communications | VillageReach | Seattle, Washington, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/3E9E726742) |
 | Sales and Marketing | COUNTRYSIDE RENTALS, INC. | Wilmington, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682477) |
 | Marketing Content & Events Assistant - Part Time | Teton Toyota | Idaho Falls, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4593244) |
 | Digital Communications Specialist | 165673 - Kids' Food Basket | Grand Rapids, MI |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4681850) |
@@ -106,6 +112,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Director, Partner Marketing | Vercel | Hybrid - San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6268187004) |
 | Marketing and Communications Manager | underscoremarketing | Remote-United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/underscoremarketing/jobs/4518104009) |
 | Vice President, Global Scientific Communications, Medical Information, Content... | revolutionmedicines | Redwood City, California, United States |  | 2026-11-20 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8209588003) |
+| Creative Strategist | thuma | San Francisco, California |  | 2026-11-20 | [Apply](https://jobs.lever.co/thuma/1cd11c88-32fe-43dd-bc8f-8efac7f0b22d) |
 | Influencer Marketing Manager | withcoverage | New York City |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/withcoverage/jobs/4517719009) |
 | Go-to-Market Media Specialist | Tanium | Durham, NC (Hybrid); Reston, VA (Hybrid) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8407130) |
 | Manager, Marketing Operations and Analytics | Per Scholas | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4730993006) |
@@ -195,16 +202,9 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Content & Campaign Marketing Manager | ibotta | Hybrid - Denver |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/ibotta/fa1943ff-2961-4ac6-99f3-1b2d30fb6144) |
 | Senior Manager, Content & Campaign Marketing | ibotta | Hybrid - Denver |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/ibotta/a78b4e6c-6d96-482b-a3a2-7b622488cf63) |
 | Public Relations Assistant | AlphabeInsightInc | Oklahoma City, OK, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162776859) |
-| Marketing Assistant | AlphabeInsightInc | Atlanta, GA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162777949) |
-| Marketing Executive | AlphabeInsightInc | Houston, TX, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162779929) |
 | Senior Brand Designer | Astranis | San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4731259006) |
 | Sr Event Marketing & Strategy Manager | d-matrix | Remote |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/d-Matrix/3d463fb6-b9f2-40c5-a5af-b66e741afef9) |
 | Growth & Marketing Intern / New Grad | clera | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Clera/5a07317b-8255-458f-a028-9dc0ee78abaa) |
-| Social Media Content Producer | campus | Campus NYC |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/campus/741dfecb-60e5-41db-8914-62a9f3a373b2) |
-| Director, Product Marketing | affinipay1 | Remote - US |  | 2026-11-20 | [Apply](https://www.8am.com/openings/?gh_jid=4730314006) |
-| Director, Filler Customer Marketing | AbbVie | Irvine, CA, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990016998768) |
-| Vice President, Storytelling & Communications | 6sense | United States, Remote |  | 2026-11-20 | [Apply](https://boards.greenhouse.io/6sense/jobs/8406391?gh_jid=8406391) |
-| Frontier Ranch- Guest Group Communications Coordinator/Admin Assistant II | younglife | Buena Vista, CO |  | 2026-11-20 | [Apply](https://younglife.wd5.myworkdayjobs.com/en-US/younglife_careers/job/Buena-Vista-CO/Frontier-Ranch--Guest-Group-Communications-Coordinator-Admin-Assistant-II_JR106506-1) |
 <!-- JOBS_TABLE_END -->
 
 <details>
