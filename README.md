@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,427</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,536</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-23 08:18 UTC</sub>
+<sub>Snapshot 2026-11-23 12:19 UTC</sub>
 
 </div>
 
@@ -50,21 +50,27 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,427 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 08:18 UTC.** Apply links go to the employer's career page or hiring system.
+**11,536 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 12:19 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Founding Marketing Lead | develop-health | San Francisco Bay Area |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/develop-health/f543268a-7137-4257-ae0e-9b2f8ee82d30) |
 | 2027 Internship, Spring - Youth Programs Marketing | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163140739) |
 | 2027 Internship, Spring - Field Marketing & Community Impact | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163140999) |
 | 2027 Internship, Spring - Communications and Community | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163141169) |
 | GROWTH OPPORTUNITIES Shift Lead (07567) - 5554 Daybreak Pkwy | Domino's | South Jordan, UT, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163108967) |
 | Associate Director, Marketing Innovation Excellence | galderma | Miami |  | 2026-11-23 | [Apply](https://galderma.wd3.myworkdayjobs.com/en-US/external/job/Miami/Associate-Director--Marketing-Innovation-Excellence_JR021806-1) |
+| SEO Manager (Remote) | silverbackstrategies | Remote |  | 2026-11-22 | [Apply](https://jobs.lever.co/silverbackstrategies/30181fb6-e2bf-4767-be22-067f07210b3c) |
+| Senior SEO Manager (Remote) (copy) | silverbackstrategies | Remote |  | 2026-11-22 | [Apply](https://jobs.lever.co/silverbackstrategies/77df129e-8721-485d-82f5-33c638ac3307) |
+| Senior Paid Media Manager (Remote) (copy) | silverbackstrategies | Remote |  | 2026-11-22 | [Apply](https://jobs.lever.co/silverbackstrategies/25214526-612e-46d2-af97-20a5013ca5ee) |
 | Nightlife/Daylife Apprentice Bartender/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163104999) |
 | Nightlife/Daylife Bartender/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163105009) |
 | Nightlife/Daylife Server Assistant/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163105019) |
 | Growth Leader | range | New York City |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/range/5d58c81d-e866-4367-a0bf-e4217b2239c9) |
 | Executive Communications Lead | Exa | San Francisco, California |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/exa/4f76ad03-138b-48d3-a5f4-a3aae104da79) |
+| Paid Media Manager | court-avenue | Office - Chicago, IL |  | 2026-11-22 | [Apply](https://jobs.lever.co/court-avenue/00485abd-0de5-4205-83ab-430da5bd627e) |
+| GEO & SEO Strategist | court-avenue | Office - Cincinnati, OH |  | 2026-11-22 | [Apply](https://jobs.lever.co/court-avenue/90fa52fa-a960-42e6-8efd-37153153f889) |
 | Field Marketing Associate | numeric | San Francisco |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/numeric/d58c1011-f7c0-4a03-b8ef-b382f63aec18) |
 | Advertising Agent | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097029) |
 | Promotional Marketing Specialist | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097889) |
@@ -123,9 +129,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Director, Partner Marketing | Vercel | Hybrid - San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6268187004) |
 | Marketing and Communications Manager | underscoremarketing | Remote-United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/underscoremarketing/jobs/4518104009) |
 | Vice President, Global Scientific Communications, Medical Information, Content... | revolutionmedicines | Redwood City, California, United States |  | 2026-11-20 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8209588003) |
-| Ad Creative Strategist | Decentralized Masters | Miami, Florida, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/4AD3FF1710) |
-| Marketing Director | Dean Dorton | Lexington, Kentucky, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/680FD6FC47) |
-| Marketing Operations Intern | Clean Power Alliance | Los Angeles, California, US |  | 2026-11-20 | [Apply](https://apply.workable.com/j/C7FFF71FEA) |
 | Influencer Marketing Manager | withcoverage | New York City |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/withcoverage/jobs/4517719009) |
 | Go-to-Market Media Specialist | Tanium | Durham, NC (Hybrid); Reston, VA (Hybrid) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8407130) |
 | Manager, Marketing Operations and Analytics | Per Scholas | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4730993006) |
@@ -202,9 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Marketing Operations & ServiceTitan Manager | guildgaragegroup | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/guildgaragegroup/jobs/4517462009) |
 | SEO Manager | guildgaragegroup | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/guildgaragegroup/jobs/4517363009) |
 | Events & Experiential Lead | flodesk | Remote |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/flodesk/jobs/5490742008) |
-| Marketing Operations Intern - Part Time | enformion | Tampa, FL (Hybrid in Tampa office) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/enformion/jobs/5302055007) |
-| Growth Marketing Manager (Marketplaces) - Self service cloud | Elastic | United States |  | 2026-11-20 | [Apply](https://jobs.elastic.co/jobs?gh_jid=8397324&gh_jid=8397324) |
-| Growth Marketing Manager | crisprecruit | Fort Worth, TX |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/crisprecruit/jobs/5303917007) |
 <!-- JOBS_TABLE_END -->
 
 <details>
