@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-marketing-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-marketing-jobs-light.svg"><img alt="Marketing jobs: JobHacki job list, last updated on Nov 22, 2026" src="assets/dist/hero-marketing-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-marketing-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-marketing-jobs-light.svg"><img alt="Marketing jobs: JobHacki job list, last updated on Nov 23, 2026" src="assets/dist/hero-marketing-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,514</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-22</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,471</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-23</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-22 20:18 UTC</sub>
+<sub>Snapshot 2026-11-23 00:17 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Explore marketing, growth, and brand roles in this fresh slice of jobs taken from employers' own hiring systems. Updated Nov 22, 2026.
+Explore marketing, growth, and brand roles in this fresh slice of jobs taken from employers' own hiring systems. Updated Nov 23, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,13 +50,17 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,514 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-22 20:18 UTC.** Apply links go to the employer's career page or hiring system.
+**11,471 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-23 00:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Paid Media Manager | court-avenue | Office - Chicago, IL |  | 2026-11-22 | [Apply](https://jobs.lever.co/court-avenue/00485abd-0de5-4205-83ab-430da5bd627e) |
-| GEO & SEO Strategist | court-avenue | Office - Cincinnati, OH |  | 2026-11-22 | [Apply](https://jobs.lever.co/court-avenue/90fa52fa-a960-42e6-8efd-37153153f889) |
+| Associate Director, Marketing Innovation Excellence | galderma | Miami |  | 2026-11-23 | [Apply](https://galderma.wd3.myworkdayjobs.com/en-US/external/job/Miami/Associate-Director--Marketing-Innovation-Excellence_JR021806-1) |
+| Nightlife/Daylife Apprentice Bartender/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163104999) |
+| Nightlife/Daylife Bartender/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163105009) |
+| Nightlife/Daylife Server Assistant/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163105019) |
+| Growth Leader | range | New York City |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/range/5d58c81d-e866-4367-a0bf-e4217b2239c9) |
+| Executive Communications Lead | Exa | San Francisco, California |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/exa/4f76ad03-138b-48d3-a5f4-a3aae104da79) |
 | Field Marketing Associate | numeric | San Francisco |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/numeric/d58c1011-f7c0-4a03-b8ef-b382f63aec18) |
 | Advertising Agent | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097029) |
 | Promotional Marketing Specialist | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097889) |
@@ -92,6 +96,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Marketing and Public Relations Manager | asmglobal | San Diego, CA |  | 2026-11-21 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/San-Diego-CA/Marketing-and-Public-Relations-Manager_R100126719) |
 | Executive Communications, Senior Manager | Salesforce | California - San Francisco |  | 2026-11-21 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Executive-Communications--Senior-Manager_JR368402) |
 | CMX Marketing Strategy Senior Manager - CVS Media Exchange (CMX) | CVS Health | 4 Locations |  | 2026-11-21 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Senior-Manager--Category-Marketing---CVS-Media-Exchange--CMX-_R1036875) |
+| Marketing Manager | Patel, Greene & Associates (PGA) | Temple Terrace, FL, United States |  | 2026-11-20 | [Apply](https://jobs.jobvite.com/patelgreene/job/owMHzfwi) |
 | Marketing and Communications Associate | SGA Youth & Family Services | Chicago, IL |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4684387) |
 | Sales and Marketing | COUNTRYSIDE RENTALS, INC. | Wilmington, OH |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4682477) |
 | Marketing Content & Events Assistant - Part Time | Teton Toyota | Idaho Falls, ID |  | 2026-11-20 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4593244) |
@@ -112,7 +117,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Director, Partner Marketing | Vercel | Hybrid - San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/vercel/jobs/6268187004) |
 | Marketing and Communications Manager | underscoremarketing | Remote-United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/underscoremarketing/jobs/4518104009) |
 | Vice President, Global Scientific Communications, Medical Information, Content... | revolutionmedicines | Redwood City, California, United States |  | 2026-11-20 | [Apply](https://www.revmed.com/careers-list/?gh_jid=8209588003) |
-| Creative Strategist | thuma | San Francisco, California |  | 2026-11-20 | [Apply](https://jobs.lever.co/thuma/1cd11c88-32fe-43dd-bc8f-8efac7f0b22d) |
+| SVP, Brand Strategy | Avalerehealth | Remote (US) |  | 2026-11-20 | [Apply](https://jobs.lever.co/avalerehealth/48e22258-1145-4daf-9012-ef88ca6f0cb4) |
 | Influencer Marketing Manager | withcoverage | New York City |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/withcoverage/jobs/4517719009) |
 | Go-to-Market Media Specialist | Tanium | Durham, NC (Hybrid); Reston, VA (Hybrid) |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8407130) |
 | Manager, Marketing Operations and Analytics | Per Scholas | United States |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/perscholashires/jobs/4730993006) |
@@ -200,11 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Performance Marketing Lead | openloophealth | United States - Remote |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/openloophealth/7940980a-c5f5-49f9-bc85-f8972fb18efb) |
 | Head of Growth | outmarket | Remote US |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/outmarket/ff06aca3-7747-4806-940e-f924ded089cd) |
 | Content & Campaign Marketing Manager | ibotta | Hybrid - Denver |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/ibotta/fa1943ff-2961-4ac6-99f3-1b2d30fb6144) |
-| Senior Manager, Content & Campaign Marketing | ibotta | Hybrid - Denver |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/ibotta/a78b4e6c-6d96-482b-a3a2-7b622488cf63) |
-| Public Relations Assistant | AlphabeInsightInc | Oklahoma City, OK, US |  | 2026-11-20 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000162776859) |
-| Senior Brand Designer | Astranis | San Francisco |  | 2026-11-20 | [Apply](https://job-boards.greenhouse.io/astranis/jobs/4731259006) |
-| Sr Event Marketing & Strategy Manager | d-matrix | Remote |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/d-Matrix/3d463fb6-b9f2-40c5-a5af-b66e741afef9) |
-| Growth & Marketing Intern / New Grad | clera | San Francisco |  | 2026-11-20 | [Apply](https://jobs.ashbyhq.com/Clera/5a07317b-8255-458f-a028-9dc0ee78abaa) |
 <!-- JOBS_TABLE_END -->
 
 <details>
