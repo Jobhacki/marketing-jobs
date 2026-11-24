@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,726</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,815</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 08:17 UTC</sub>
+<sub>Snapshot 2026-11-24 12:17 UTC</sub>
 
 </div>
 
@@ -50,12 +50,14 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,726 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 08:17 UTC.** Apply links go to the employer's career page or hiring system.
+**11,815 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 12:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
-| Sandborn - Sales & Marketing Manager | dreamgolf | Mt. Enterprise, TX |  | 2026-11-24 | [Apply](https://jobs.lever.co/dreamgolf/01fa999d-6916-47a7-9c96-e1a565d10f1b) |
+| Social Media and Growth Marketing Lead | Raydar | New York, New York, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/B9A9ED59F7) |
+| Head of Marketing | Raydar | New York, New York, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/FE57F2261C) |
+| Manager, Public Safety Communications Facilities | City of New York | Brooklyn, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017053996) |
 | Sr. Marketing Manager, Thoracic and Colorectal | Intuitive | Sunnyvale, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163343129) |
 | Senior Marketing Technology Specialist | Domino's | Ann Arbor, MI, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163359519) |
 | Founding Creative (Video & Performance Ads) | Vera Health | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/verahealth/258a9453-b885-463a-86e6-eb6b201beb5b) |
@@ -83,12 +85,12 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Strategic Communications Specialist | bah | Washington, DC |  | 2026-11-24 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Strategic-Communications-Specialist_R0250242-1) |
 | VP, Software & Services Marketing | HP | 2 Locations |  | 2026-11-24 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/VP--Software---Services-Marketing_3171177-1) |
 | Sr Manager, Product Growth | PayPal | San Jose, California, United States of America |  | 2026-11-24 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Product-Growth_R0139353) |
+| Lead Customer Marketing Specialist | Honeywell | Richardson, TX, United States |  | 2026-11-23 | [Apply](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/161633) |
+| Product Marketing Analyst (PMA) | onsemi | Allen, TX, United States |  | 2026-11-23 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507100) |
+| Specialist III, Communications | Southern Company | Naperville, IL, United States |  | 2026-11-23 | [Apply](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22909) |
+| Sr. Product Marketing Manager | Fortive | Remote, United States |  | 2026-11-23 | [Apply](https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/11361) |
+| Senior Manager, Content Marketing | Wpromote | Remote, United States |  | 2026-11-23 | [Apply](https://jobs.lever.co/wpromote/7cb4a5bd-026e-4ae8-9b93-321d8425e06a) |
 | Marketing Manager | HELIX ENVIRONMENTAL PLANNING | San Diego, CA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4688013) |
-| Digital Marketing Specialist | ADP employer 10475978 | Angola, IN, US |  | 2026-11-23 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=10475978-9d5d-4900-8a5b-2928a1fe9a7a&ccId=19000101_000001&jobId=925813&lang=en_US&source=CC2) |
-| Senior Designer, Brand and Marketing | captivateiq | Remote USA |  | 2026-11-23 | [Apply](https://jobs.lever.co/captivateiq/6b002084-4a04-4d57-aba5-aa4ac4622c5e) |
-| Senior SEO Manager (Remote) | silverbackstrategies | Remote |  | 2026-11-23 | [Apply](https://jobs.lever.co/silverbackstrategies/2e67fe5e-0fe2-4500-a8aa-bc7ccabf7f47) |
-| Senior Paid Media Manager (Remote) | silverbackstrategies | Remote |  | 2026-11-23 | [Apply](https://jobs.lever.co/silverbackstrategies/bf6e2f65-da37-4cc0-a6ea-6f0544db4a0d) |
-| Growth Manager, Marketing & Sales | silverbackstrategies | Remote |  | 2026-11-23 | [Apply](https://jobs.lever.co/silverbackstrategies/83f83a62-e466-4e72-824a-dd96fcb41718) |
 | Staff PMM, Enterprise | Aikido Security | Chicago, Illinois, United States |  | 2026-11-23 | [Apply](https://aikidosecurity.recruitee.com/o/staff-pmm-enterprise) |
 | Video Marketing Specialist | QuaverEd Inc. | Nashville, TN |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683588) |
 | Community Engagement Specialist | yerbamadre | Los Angeles, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/yerbamadre/jobs/4731875006) |
@@ -199,12 +201,10 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | The Sr. Manager, Internal Communications & Team Member Experiences | NBCUniversal | Universal City, CALIFORNIA, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163260955) |
 | Associate Creative Director, Design | Peloton | New York, New York |  | 2026-11-23 | [Apply](https://careers.onepeloton.com/en/all-jobs/?gh_jid=8399937) |
 | Social Media Content Creator (Basketball) | fuseglobalpartners | United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/fuseglobalpartners/jobs/5491976008) |
+| Senior Manager, CRM & Lifecycle Marketing | todaytixgroup | New York, NY |  | 2026-11-23 | [Apply](https://jobs.lever.co/todaytixgroup/1bde5195-7ef7-4381-8e4d-51e60df94565) |
 | Senior Product Marketing Manager | nivoda | NYC |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/Nivoda/07e19352-024c-40bc-876a-974e8747c1aa) |
 | Marketing Agent | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163230832) |
 | Director of Marketing | avantos | New York City |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/avantos/d2499bec-44cb-441f-a918-c5448da67d89) |
-| Founding Marketing Lead | develop-health | San Francisco Bay Area |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/develop-health/f543268a-7137-4257-ae0e-9b2f8ee82d30) |
-| 2027 Internship, Spring - Youth Programs Marketing | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163140739) |
-| 2027 Internship, Spring - Field Marketing & Community Impact | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163140999) |
 <!-- JOBS_TABLE_END -->
 
 <details>
