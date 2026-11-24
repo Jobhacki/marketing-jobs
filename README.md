@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,681</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,726</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 04:18 UTC</sub>
+<sub>Snapshot 2026-11-24 08:17 UTC</sub>
 
 </div>
 
@@ -50,11 +50,12 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,681 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 04:18 UTC.** Apply links go to the employer's career page or hiring system.
+**11,726 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 08:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Sandborn - Sales & Marketing Manager | dreamgolf | Mt. Enterprise, TX |  | 2026-11-24 | [Apply](https://jobs.lever.co/dreamgolf/01fa999d-6916-47a7-9c96-e1a565d10f1b) |
 | Sr. Marketing Manager, Thoracic and Colorectal | Intuitive | Sunnyvale, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163343129) |
 | Senior Marketing Technology Specialist | Domino's | Ann Arbor, MI, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163359519) |
 | Founding Creative (Video & Performance Ads) | Vera Health | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/verahealth/258a9453-b885-463a-86e6-eb6b201beb5b) |
@@ -82,6 +83,12 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Strategic Communications Specialist | bah | Washington, DC |  | 2026-11-24 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Strategic-Communications-Specialist_R0250242-1) |
 | VP, Software & Services Marketing | HP | 2 Locations |  | 2026-11-24 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/VP--Software---Services-Marketing_3171177-1) |
 | Sr Manager, Product Growth | PayPal | San Jose, California, United States of America |  | 2026-11-24 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Product-Growth_R0139353) |
+| Marketing Manager | HELIX ENVIRONMENTAL PLANNING | San Diego, CA |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4688013) |
+| Digital Marketing Specialist | ADP employer 10475978 | Angola, IN, US |  | 2026-11-23 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=10475978-9d5d-4900-8a5b-2928a1fe9a7a&ccId=19000101_000001&jobId=925813&lang=en_US&source=CC2) |
+| Senior Designer, Brand and Marketing | captivateiq | Remote USA |  | 2026-11-23 | [Apply](https://jobs.lever.co/captivateiq/6b002084-4a04-4d57-aba5-aa4ac4622c5e) |
+| Senior SEO Manager (Remote) | silverbackstrategies | Remote |  | 2026-11-23 | [Apply](https://jobs.lever.co/silverbackstrategies/2e67fe5e-0fe2-4500-a8aa-bc7ccabf7f47) |
+| Senior Paid Media Manager (Remote) | silverbackstrategies | Remote |  | 2026-11-23 | [Apply](https://jobs.lever.co/silverbackstrategies/bf6e2f65-da37-4cc0-a6ea-6f0544db4a0d) |
+| Growth Manager, Marketing & Sales | silverbackstrategies | Remote |  | 2026-11-23 | [Apply](https://jobs.lever.co/silverbackstrategies/83f83a62-e466-4e72-824a-dd96fcb41718) |
 | Staff PMM, Enterprise | Aikido Security | Chicago, Illinois, United States |  | 2026-11-23 | [Apply](https://aikidosecurity.recruitee.com/o/staff-pmm-enterprise) |
 | Video Marketing Specialist | QuaverEd Inc. | Nashville, TN |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683588) |
 | Community Engagement Specialist | yerbamadre | Los Angeles, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/yerbamadre/jobs/4731875006) |
@@ -198,13 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Founding Marketing Lead | develop-health | San Francisco Bay Area |  | 2026-11-23 | [Apply](https://jobs.ashbyhq.com/develop-health/f543268a-7137-4257-ae0e-9b2f8ee82d30) |
 | 2027 Internship, Spring - Youth Programs Marketing | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163140739) |
 | 2027 Internship, Spring - Field Marketing & Community Impact | RedBull | Harrison, NJ, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/RedBull/744000163140999) |
-| GROWTH OPPORTUNITIES Shift Lead (07567) - 5554 Daybreak Pkwy | Domino's | South Jordan, UT, US |  | 2026-11-23 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163108967) |
-| Associate Director, Marketing Innovation Excellence | galderma | Miami |  | 2026-11-23 | [Apply](https://galderma.wd3.myworkdayjobs.com/en-US/external/job/Miami/Associate-Director--Marketing-Innovation-Excellence_JR021806-1) |
-| Nightlife/Daylife Apprentice Bartender/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163104999) |
-| Nightlife/Daylife Bartender/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163105009) |
-| Nightlife/Daylife Server Assistant/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163105019) |
-| Growth Leader | range | New York City |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/range/5d58c81d-e866-4367-a0bf-e4217b2239c9) |
-| Executive Communications Lead | Exa | San Francisco, California |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/exa/4f76ad03-138b-48d3-a5f4-a3aae104da79) |
 <!-- JOBS_TABLE_END -->
 
 <details>
