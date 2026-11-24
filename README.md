@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,596</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,681</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 00:18 UTC</sub>
+<sub>Snapshot 2026-11-24 04:18 UTC</sub>
 
 </div>
 
@@ -50,11 +50,18 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,596 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**11,681 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 04:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Sr. Marketing Manager, Thoracic and Colorectal | Intuitive | Sunnyvale, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163343129) |
+| Senior Marketing Technology Specialist | Domino's | Ann Arbor, MI, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163359519) |
+| Founding Creative (Video & Performance Ads) | Vera Health | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/verahealth/258a9453-b885-463a-86e6-eb6b201beb5b) |
+| Founding Social (Creators & Community) | Vera Health | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/verahealth/ca0b13d9-7fbb-46f6-81a3-a14b107a0ce6) |
+| Sr. Manager, Global Field Marketing Operations | Shield AI | Arlington, VA, US |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/shield/aa5a1343-5e80-416b-8f78-30259d3a3eda) |
+| SEO/AEO Manager | jordandigitalmarketing | Remote |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/jordandigitalmarketing/ecf6aa23-ea13-47e4-bb9a-0d64a6f6eba8) |
+| SEO / AEO Lead | helpscout | United States |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/helpscout/124fc642-1462-413e-9999-526ccf717752) |
 | Marketing & Development Manager, Bluebonnet Life | bcbsms | Flowood, MS |  | 2026-11-24 | [Apply](https://bcbsms.wd5.myworkdayjobs.com/en-US/bcbsms/job/Flowood-MS/Marketing---Development-Manager--Bluebonnet-Life_JR100317) |
 | Marketing Communications Specialist (West Coast Hours Required) | wsgr | 7 Locations |  | 2026-11-24 | [Apply](https://wsgr.wd503.myworkdayjobs.com/en-US/wsgr/job/Palo-Alto/Marketing-Communications-Specialist--West-Coast-Hours-Required-_R1799) |
 | B2B Marketing Associate | kissusa | USA, NY, Port Washington, HQ |  | 2026-11-24 | [Apply](https://kissusa.wd12.myworkdayjobs.com/en-US/kiss_careers_external/job/USA-NY-Port-Washington-HQ/B2B-Marketing-Associate_R4413) |
@@ -75,7 +82,13 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Strategic Communications Specialist | bah | Washington, DC |  | 2026-11-24 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/Strategic-Communications-Specialist_R0250242-1) |
 | VP, Software & Services Marketing | HP | 2 Locations |  | 2026-11-24 | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Palo-Alto-California-United-States-of-America/VP--Software---Services-Marketing_3171177-1) |
 | Sr Manager, Product Growth | PayPal | San Jose, California, United States of America |  | 2026-11-24 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Product-Growth_R0139353) |
-| The Life is Good Playmaker Project: Director of Marketing and Communication | Life is Good | Boston, Massachusetts, US |  | 2026-11-23 | [Apply](https://apply.workable.com/j/BC1219C4B9) |
+| Staff PMM, Enterprise | Aikido Security | Chicago, Illinois, United States |  | 2026-11-23 | [Apply](https://aikidosecurity.recruitee.com/o/staff-pmm-enterprise) |
+| Video Marketing Specialist | QuaverEd Inc. | Nashville, TN |  | 2026-11-23 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4683588) |
+| Community Engagement Specialist | yerbamadre | Los Angeles, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/yerbamadre/jobs/4731875006) |
+| Field Marketing Manager (East Coast) | syndio | Remote Home Office - United States |  | 2026-11-23 | [Apply](https://synd.io/careers/?gh_jid=6269314004) |
+| Marketing Manager, Partnerships & Brand Activation | ownwell | Austin, TX |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/ownwell/jobs/4731851006) |
+| Media Coordinator | fanduel | New York City |  | 2026-11-23 | [Apply](https://www.fanduel.careers/open-positions?gh_jid=8372490) |
+| Product Marketing Director | day1academies | Seattle, Washington, United States |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/day1academies/jobs/8959359002) |
 | Safety Communications Manager | Waymo | Mountain View, CA, USA; San Francisco, CA, USA; |  | 2026-11-23 | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8397708) |
 | Social Media Manager | walkersands | Chicago |  | 2026-11-23 | [Apply](https://walkersands.com/careers?gh_jid=8412596) |
 | Lead, Marketing & Communications Program Manager | True Anomaly | Long Beach, CA |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5302708007) |
@@ -85,7 +98,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Temporary Senior Producer, Podcast Subscriptions | nationalpublicradioinc | Remote |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/nationalpublicradioinc/jobs/4753501005) |
 | Influencer Marketing Talent Associate | linqia | San Francisco, California, United States |  | 2026-11-23 | [Apply](https://boards.greenhouse.io/linqia/jobs/8959167002?gh_jid=8959167002) |
 | Influencer Marketing Campaign Associate | linqia | San Francisco, California, United States |  | 2026-11-23 | [Apply](https://boards.greenhouse.io/linqia/jobs/8959165002?gh_jid=8959165002) |
-| Marketing Events Manager | lwolf | United States (Remote) |  | 2026-11-23 | [Apply](https://jobs.lever.co/lwolf/6fa8f7fc-436e-455a-974b-b530c659d3c4) |
 | Khan Kids: Senior Consumer Marketing Manager (1 year contract, 40 hours/week, $... | Khan Academy | San Mateo, CA / Remote (Continental US + Hawaii + Canada Only) |  | 2026-11-23 | [Apply](https://job-boards.greenhouse.io/khanacademy/jobs/8412250) |
 | Web & Marketing Technology Manager | ionq | Remote, US |  | 2026-11-23 | [Apply](https://ionq.com/job?gh_jid=6265541004) |
 | Director, Product Marketing (Contractor) | Glossier | Remote (USA) |  | 2026-11-23 | [Apply](https://boards.greenhouse.io/glossier/jobs/8412650?gh_jid=8412650) |
@@ -193,18 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Nightlife/Daylife Server Assistant/Marketing Model - 2027 Season | Wynn Resorts | Las Vegas, NV, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/WynnResorts/744000163105019) |
 | Growth Leader | range | New York City |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/range/5d58c81d-e866-4367-a0bf-e4217b2239c9) |
 | Executive Communications Lead | Exa | San Francisco, California |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/exa/4f76ad03-138b-48d3-a5f4-a3aae104da79) |
-| Field Marketing Associate | numeric | San Francisco |  | 2026-11-22 | [Apply](https://jobs.ashbyhq.com/numeric/d58c1011-f7c0-4a03-b8ef-b382f63aec18) |
-| Advertising Agent | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097029) |
-| Promotional Marketing Specialist | AlphabeInsightInc | San Antonio, TX, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/AlphabeInsightInc/744000163097889) |
-| Head of Campaign Operations | Anthropic | San Francisco, CA / New York City, NY |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491578008) |
-| Campaign Manager | Anthropic | San Francisco, CA / New York City, NY |  | 2026-11-22 | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5491575008) |
-| Regional Marketing Manager | clearchanneloutdoor | Phoenix, AZ (Camelback) |  | 2026-11-22 | [Apply](https://clearchanneloutdoor.wd5.myworkdayjobs.com/en-US/cco/job/Phoenix-AZ-Camelback/Regional-Marketing-Manager_Req24210) |
-| GROWTH OPPORTUNITIES Shift Lead (7539) | Domino's | West Jordan, UT, US |  | 2026-11-22 | [Apply](https://jobs.smartrecruiters.com/Dominos/744000163069740) |
-| Social Media Strategist | Exa | San Francisco, California |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/exa/fdecb657-e185-4fb4-b04c-d2c1fec240ff) |
-| Marketing Lead | clera | San Francisco |  | 2026-11-21 | [Apply](https://jobs.ashbyhq.com/Clera/6a5e5ad1-1a55-4f7c-961f-e5cc32d867e7) |
-| Solution Marketing Campaign Director, Employee Experience | ServiceNow | Santa Clara, CALIFORNIA, US |  | 2026-11-21 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162954819) |
-| (Senior) Marketing Manager | flagshippioneeringinc | Cambridge, MA USA |  | 2026-11-21 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8955292002?gh_jid=8955292002) |
-| Senior Director, Marketing | flagshippioneeringinc | Cambridge, MA USA |  | 2026-11-21 | [Apply](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8954864002?gh_jid=8954864002) |
 <!-- JOBS_TABLE_END -->
 
 <details>
