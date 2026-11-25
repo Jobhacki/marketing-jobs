@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-marketing-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-marketing-jobs-light.svg"><img alt="Marketing jobs: JobHacki job list, last updated on Nov 24, 2026" src="assets/dist/hero-marketing-jobs-dark.svg" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/hero-marketing-jobs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/hero-marketing-jobs-light.svg"><img alt="Marketing jobs: JobHacki job list, last updated on Nov 25, 2026" src="assets/dist/hero-marketing-jobs-dark.svg" width="100%"></picture>
 
 <a href="#open-jobs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dist/btn-primary-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/dist/btn-primary-light.svg"><img alt="See the jobs" src="assets/dist/btn-primary-dark.svg" width="340"></picture></a>
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>11,893</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-24</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>11,944</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-25</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-24 23:07 UTC</sub>
+<sub>Snapshot 2026-11-25 00:18 UTC</sub>
 
 </div>
 
@@ -28,7 +28,7 @@
 
 **Hi, I'm Sophia, JobHacki's AI assistant. Pick a list, inspect a role, and follow its employer link.**
 
-Explore marketing, growth, and brand roles in this fresh slice of jobs taken from employers' own hiring systems. Updated Nov 24, 2026.
+Explore marketing, growth, and brand roles in this fresh slice of jobs taken from employers' own hiring systems. Updated Nov 25, 2026.
 
 [Back to all 12 lists](https://github.com/Jobhacki/jobs)
 
@@ -50,17 +50,34 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**11,893 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-24 23:07 UTC.** Apply links go to the employer's career page or hiring system.
+**11,944 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-25 00:18 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
 |---|---|---|---|---|---|
+| Senior Director, Marketing Mix Modeling & Investment Optimization | amgen | United States - Remote |  | 2026-11-25 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Senior-Director--Marketing-Mix-Modeling---Investment-Optimization_R-261597) |
+| Creator Nation l Manager, Creator Marketing | livenation | Beverly Hills, CA, USA |  | 2026-11-25 | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/lnexternalsite/job/Beverly-Hills-CA-USA/Creator-Nation-l-Manager--Creator-Marketing_JR-94495) |
+| Creator Nation l VP, Creator Marketing | livenation | Beverly Hills, CA, USA |  | 2026-11-25 | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/lnexternalsite/job/Beverly-Hills-CA-USA/Creator-Nation-l-VP--Creator-Marketing_JR-94494) |
+| Marketing Coordinator | Corvant | Grapevine, TX |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692188) |
+| Senior Ecommerce Designer, UX/UI & Marketing | Blackstone Shooting Sports | Charlotte, North Carolina, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/FCB61E91B4) |
+| Manager, Marketing Technology & Growth Analytics | yerbamadre | Los Angeles, CA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/yerbamadre/jobs/4731871006) |
+| Principal Partner Marketing Manager | zocks | Remote US |  | 2026-11-24 | [Apply](https://jobs.lever.co/zocks/7f64637a-fb8c-4c96-880e-960f573dff40) |
+| Principal Product Marketing Manager | sumologic | Remote US |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/sumologic/jobs/8411325) |
+| Product Marketing Manager - Ostro | Veeva Systems | Massachusetts - Boston |  | 2026-11-24 | [Apply](https://jobs.lever.co/veeva/e49ec884-422c-43f0-8801-8d884e6848af) |
+| Product Marketing Manager - Ostro | Veeva Systems | Massachusetts - Boston |  | 2026-11-24 | [Apply](https://jobs.lever.co/veeva/b256ac53-4715-458d-9e73-d3a7724530c0) |
+| Demand Generation & Field Marketing Manager - Ostro | Veeva Systems | Massachusetts - Boston |  | 2026-11-24 | [Apply](https://jobs.lever.co/veeva/915769c9-4e8a-4a6f-92d9-cfabb2b2cf53) |
+| Marketing Events Specialist | localitymediallcdbafirstdue | Remote - US Only |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4519163009) |
+| Creative Director | later | Boston, MA; New York, New York, United States; Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/later/jobs/8961505002) |
+| Senior Field Marketing Manager | Motive | United States - Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/gomotive/jobs/8958621002) |
+| Growth | roboflow | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/roboflow/af3575b9-f072-49bd-b779-c069a1cdcbf0) |
+| Paid Media Manager | Render | Remote: United States |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/render/d5ee6a37-085c-47c8-8149-692633254cab) |
+| Senior Product Marketing Manger, Treatment Modalities | Hinge Health | Remote US | $169.6k-254.4k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/hinge-health/c12aa8f6-5c44-4d2d-a896-251eabe41ded) |
+| Editorial | Cognition | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/cognition/45c7d9d7-73f7-4ed4-befa-d818df9d7ff7) |
+| Customer Marketing Manager | Cognition | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/cognition/6be3d868-efaf-4d67-82a4-2cfd0f12e6c5) |
+| Product Marketing Manager | abacum | Remote US | $125k-140k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/abacum/8d4f97b9-3eec-4a82-8ea7-63da977ee62f) |
 | Marketing Specialist | WebMD | Newark, NJ, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/internetbrands/job/otB8Afww) |
 | Video Content Creator | IGN | Austin, TX, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/ign/job/oXR7Afwf) |
 | Coordinator - Social Media | Hard Rock Digital | Hollywood, Florida, United States |  | 2026-11-24 | [Apply](https://hardrockdigital.recruitee.com/o/coordinator-social-media-1) |
-| Vice President of Marketing & Communications | CHM | Chicago, IL, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=5b362fba-f53e-4789-bc85-d104f0b9a79c&ccId=19000101_000001&jobId=545957&lang=en_US&source=CC2) |
-| Senior Manager, Product Marketing | AutoVitals | US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/21AB0196C1) |
-| Head of Growth | AURORA | New York, New York, US |  | 2026-11-24 | [Apply](https://apply.workable.com/j/C9D9EF8411) |
 | Marketing Coordinator | mbg | St. Louis, MO |  | 2026-11-24 | [Apply](https://mbg.wd501.myworkdayjobs.com/en-US/mbgcareers/job/St-Louis-MO/Marketing-Coordinator_JR1087) |
 | Client Experience Communications Lead | bmo | Virtual, IL, USA |  | 2026-11-24 | [Apply](https://bmo.wd3.myworkdayjobs.com/en-US/privileged/job/Virtual-IL-USA/Client-Experience-Communications-Lead_R260032495) |
 | Communications Manager, Large-Scale Fisheries | nature | Remote, USA |  | 2026-11-24 | [Apply](https://nature.wd108.myworkdayjobs.com/en-US/externalcareers/job/Remote-USA/Communications-Manager--Large-Scale-Fisheries_JR104446) |
@@ -72,15 +89,13 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Senior Events Marketing Manager | tebra | United States - Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/tebra/jobs/4754088005) |
 | Healthcare Communications Intern | lockwood | Stamford, CT |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/lockwood/jobs/5231381007) |
 | Senior Product Marketing Manager | LaunchDarkly | Remote - US |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/8215689003) |
-| Director of Donor Engagement and Communications | sierraclub | Remote |  | 2026-11-24 | [Apply](https://jobs.lever.co/sierraclub/1ac1e3d6-ef0b-4618-b169-87dd7f0a6a89) |
 | B2B Paid Marketing Lead | hark | San Jose |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/hark/jobs/4522950009) |
 | Senior Manager, Scientific Communications | compasspathways | United States |  | 2026-11-24 | [Apply](https://job-boards.eu.greenhouse.io/compasspathways/jobs/5047831101) |
 | Content Marketing Manager | pivotal-health | Remote - US |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/pivotal-health/8868c83e-d7d3-4f93-97e2-0dc29cc93d86) |
 | Founding Product Marketing Manager - Emerging Products | Outset | San Francisco |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/outset/d3f577b6-a4dd-432c-b75b-289b682f84f1) |
 | Director, Field Marketing | oscilar | Remote |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/oscilar/49b70b4e-d617-48d3-b801-12ace3885ccc) |
-| Flagship Events Manager, Interrupt | LangChain | San Francisco, CA |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/langchain/46bd70b5-fb1b-4fe7-9d88-8990a1775bd7) |
+| Flagship Events Manager, Interrupt | LangChain | San Francisco, CA | $140k-190k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/langchain/46bd70b5-fb1b-4fe7-9d88-8990a1775bd7) |
 | Social Media Content Creator (Part-time) | jump-app | Remote |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/jump-app/111e7903-26dd-4b2f-a3bc-14179d1b0711) |
-| Senior Director of Communications – Americas | Crypto.com | United States | $200k-300k/yr | 2026-11-24 | [Apply](https://jobs.lever.co/crypto/82779647-b426-4018-beb9-4d33657637ac) |
 | Marketing Conversion & Performance Strategist | eztexting | Remote - United States (Approved Locations Only) | $148.029k-261.227k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/eztexting/00b55c97-b088-4ebd-bbd0-df7ee5fa3c51) |
 | Marketing Manager | coastal | Evergreen Way Branch | $130k-155k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/coastal/00379672-2531-409f-8d0f-8144f48c4461) |
 | Consumer Marketing Manager I/II - Gastroenterology | AbbVie | Mettawa, IL, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017077456) |
@@ -173,7 +188,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Brand Partnership Associate, Sports | Coinbase | Remote - USA |  | 2026-11-24 | [Apply](https://www.coinbase.com/careers/positions/8268156?gh_jid=8268156) |
 | Director of B2B Employer Marketing | rula | Remote - United States |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/rula/5d7b5c9b-af41-432f-ba38-6045af9886d5) |
 | Manager, Marketing & Communications | climatelead | San Francisco |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/climatelead/jobs/5493211008) |
-| Performance Marketing Manager | Legora | New York City |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/legora/ab845674-57ed-43e2-85ea-dc8618304d73) |
+| Performance Marketing Manager | Legora | New York City | $131k-155k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/legora/ab845674-57ed-43e2-85ea-dc8618304d73) |
 | Field Marketing Coordinator, Upmarket | Brex | Remote |  | 2026-11-24 | [Apply](https://www.brex.com/careers/8960878002?gh_jid=8960878002) |
 | Growth Marketing Manager | Hinge Health | San Francisco-HQ | $150k-180k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/hinge-health/99653e3c-4c78-4406-a96c-a98d63e465b6) |
 | AI Growth & Demand Generation Manager | gorgias | New York City | $120k-133k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/gorgias/db62e531-adc2-4031-b3fb-f9e0c99266cd) |
@@ -190,21 +205,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Sr Mgr, Research Communications & Knowledge Translation | CVS Health | MA - Wellesley |  | 2026-11-24 | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MA---Wellesley/Sr-Mgr--Research-Communications---Knowledge-Translation_R1061139-1) |
 | Director, Integrated Campaigns & Demand Generation | tracelinkinc | US - MA - Wilmington |  | 2026-11-24 | [Apply](https://www.tracelink.com/about/culture-and-careers/jobs?gh_jid=5308036007) |
 | Senior Marketing Associate | sharebite | Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/sharebite/jobs/6270042004) |
-| Partner Marketing Manager (Hybrid) | opentable | San Francisco, CA |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/opentable/jobs/8960104002) |
-| Brand Manager | kao | Cincinnati |  | 2026-11-24 | [Apply](https://kao.voyse.io/gh-job/4731945006?gh_jid=4731945006) |
-| Americas Growth Director - RTS | Keenfinity | Burnsville, MN, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Keenfinity/744000163484870) |
-| Social Content Producer | excelsportsmanagement | Irvine, California, United States |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4758282005) |
-| Coordinator, Integrated Marketing - Ancillary Offerings | Equinox | New York, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Equinox/744000163453775) |
-| Art Director, Social | Equinox | New York, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Equinox/744000163466110) |
-| Growth Marketing Manager II | Thumbtack | Remote, United States |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/thumbtack/c521a511-cf06-4d3f-99b4-00e686aeb124) |
-| Senior Event Marketing Manager | moxie | Remote - Global |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/Moxie/e5f2a2ea-0000-4af7-9258-409dddc309c5) |
-| Marketing Ops Specialist | imprint | Remote | $130k-150k/yr | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/imprint/3659b0d5-7c04-43d9-b20b-a3b6cceea3fd) |
-| Manager, Social Media & Digital Enagement | bbyo | Washington, DC |  | 2026-11-24 | [Apply](https://bbyo.org/about/careers/career-details/?gh_jid=8413899) |
-| Associate Director Omnichannel Marketing - Oncology | AbbVie | Mettawa, IL, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990017060706) |
-| User Acquisition Manager | arb-interactive | United States |  | 2026-11-24 | [Apply](https://jobs.ashbyhq.com/arb-interactive/d9f5cc20-cc37-46f1-b1a2-a69ab5d583f7) |
-| Manager, Public Safety Communications Facilities | City of New York | Brooklyn, NY, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/CityOfNewYork/3743990017053996) |
-| Sandborn - Sales & Marketing Manager | dreamgolf | Mt. Enterprise, TX |  | 2026-11-24 | [Apply](https://jobs.lever.co/dreamgolf/01fa999d-6916-47a7-9c96-e1a565d10f1b) |
-| Sr. Marketing Manager, Thoracic and Colorectal | Intuitive | Sunnyvale, CA, US |  | 2026-11-24 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163343129) |
 <!-- JOBS_TABLE_END -->
 
 <details>
