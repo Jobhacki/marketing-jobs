@@ -18,9 +18,9 @@
 
 <div align="center">
 
-<table><tr><td align="center" valign="top"><h3>12,133</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
+<table><tr><td align="center" valign="top"><h3>12,156</h3><sub>open marketing jobs in this list (latest refresh)</sub></td><td align="center" valign="top"><h3>150</h3><sub>freshest rows shown below</sub></td><td align="center" valign="top"><h3>2026-11-26</h3><sub>newest posting date</sub></td></tr></table>
 
-<sub>Snapshot 2026-11-27 00:18 UTC</sub>
+<sub>Snapshot 2026-11-27 04:17 UTC</sub>
 
 </div>
 
@@ -50,7 +50,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 
 ## Open jobs
 
-**12,133 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 00:18 UTC.** Apply links go to the employer's career page or hiring system.
+**12,156 open marketing jobs seen in the latest refresh.** The table shows the freshest 150. **Last updated: 2026-11-27 04:17 UTC.** Apply links go to the employer's career page or hiring system.
 
 <!-- JOBS_TABLE_START -->
 | Role | Employer | Location | Pay | Posted | Apply |
@@ -64,10 +64,12 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Marketing & Events Lead | clera | San Francisco | $130k-225k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/5f353a9d-d94d-47a4-acd7-d88caef92ea7) |
 | Head of Growth | clera | Austin | $120k-160k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/Clera/4cd4fdfd-2440-435b-a5d7-27514bc810a1) |
 | Regional Marketing Manager - Americas | jotun | Houston |  | 2026-11-26 | [Apply](https://jotun.wd3.myworkdayjobs.com/en-US/jotun_careers/job/Houston/Regional-Marketing-Manager---Americas_R10700-1) |
+| HR & Internal Communications Intern | lucidmotors | Amsterdam, NH |  | 2026-11-26 | [Apply](https://lucidmotors.com/careers/search/5306664007?gh_jid=5306664007) |
 | Communications Manager | rain-technologies | New York City, NY | $130k-190k/yr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/rain-technologies/779c19fe-3c50-4562-b8c1-55a688d0d82e) |
 | Product Marketing Manager | matter-labs | United States |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/matter-labs/170b6cbf-5f77-4c83-9243-82bb7dd86610) |
 | Field Marketing Manager, Digital Natives | elevenlabs | United States |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/ElevenLabs/73818bfa-8a36-4b28-b250-5acaf72e099e) |
 | Sales & Marketing Manager | D.R. Horton | Rogers, AR, US |  | 2026-11-26 | [Apply](https://drhorton.taleo.net/careersection/2/jobdetail.ftl?job=2605906&lang=en) |
+| Senior Product Marketing Manager | q-ctrl | San Francisco |  | 2026-11-26 | [Apply](https://jobs.lever.co/q-ctrl/78d526bd-3586-4551-b40b-64de30d1fc1d) |
 | Marketing Intern - Summer 2027 | vital-lyfe | Los Angeles - Greater Area | $26-30/hr | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/vital-lyfe/a3cb1fe6-d67b-4742-a7c1-a416eb021003) |
 | Product Marketing Manager | signoz | India / US / Europe |  | 2026-11-26 | [Apply](https://jobs.ashbyhq.com/SigNoz/fb49f781-4538-45f2-9dde-b9f6c63e6f52) |
 | Senior Associate - Direct Marketing (Partnerships) Hybrid | Capital One | 2 Locations |  | 2026-11-26 | [Apply](https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/McLean-VA/Senior-Associate---Direct-Marketing--Partnerships--Hybrid_R249841-1) |
@@ -81,17 +83,17 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Senior Marketing Events Manager | cohesity | Santa Clara, CA - USA (Office) |  | 2026-11-26 | [Apply](https://cohesity.wd5.myworkdayjobs.com/en-US/cohesity_careers/job/Santa-Clara-CA---USA-Office/Senior-Marketing-Events-Manager_R05138) |
 | Interactive Marketing & Design Coordinator | asmglobal | Houston, TX |  | 2026-11-26 | [Apply](https://asmglobal.wd1.myworkdayjobs.com/en-US/careers/job/Houston-TX/Interactive-Marketing---Design-Coordinator_R100126760) |
 | Product Marketing Sr. Lead | Salesforce | 3 Locations |  | 2026-11-26 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Product-Marketing-Sr-Lead_JR369148) |
-| Head of Brand & Marketing | Capitol Broadcasting Company | Durham, NC, US |  | 2026-11-25 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=290e1fc8-a28d-477b-b05d-146069c94791&ccId=19000101_000001&jobId=956208&lang=en_US&source=CC2) |
+| Associate Brand Manager | Blount Fine Foods | Warren, RI, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/blountfinefoods/job/oS69Bfws) |
 | Sales & Marketing Account Specialist | LAVELLE INDUSTRIES INC | Burlington, WI |  | 2026-11-25 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4694796) |
 | Senior Communications Specialist, Environmental Services | Stantec | Orlando, FL, United States |  | 2026-11-25 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009058) |
 | Senior Director, Portfolio Marketing & Innovation | CooperSurgical | Victor, NY, United States |  | 2026-11-25 | [Apply](https://hcjy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/13329) |
 | Sales and Marketing Associate | Sinclair | Boise, ID, United States |  | 2026-11-25 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17684) |
 | Web Marketing Intern - Digital Experience Analytics | Texas Instruments | Dallas, TX, United States |  | 2026-11-25 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25020507) |
+| 2027 Summer Internship - Frontline Marketing Intern | duetti | New York, NY |  | 2026-11-25 | [Apply](https://jobs.lever.co/duetti/aa8990f5-37e5-4ccf-bbfa-e18427c881b8) |
 | Corporate Communications Specialist | Rip City | Portland, OR, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/ripcity/job/o9g9BfwT) |
 | Corporate Communications Coordinator | Rip City | Portland, OR, United States |  | 2026-11-25 | [Apply](https://jobs.jobvite.com/ripcity/job/ocg9BfwW) |
 | Product Marketing MBA Intern (Contract) | heygen | Los Angeles, San Francisco |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/heygen/jobs/5309913007) |
 | Field Marketing Manager | cision | Remote - USA |  | 2026-11-25 | [Apply](https://job-boards.eu.greenhouse.io/cision/jobs/5016490101) |
-| Sr. Paid Social Manager | finix | San Francisco | $140k-190k/yr | 2026-11-25 | [Apply](https://jobs.lever.co/finix/b144a35a-adf7-4073-9e27-5253f2203c25) |
 | Principal Brand Marketing Manager, B2B | Zocdoc | New York, NY |  | 2026-11-25 | [Apply](https://job-boards.greenhouse.io/zocdoc/jobs/8418040) |
 | Junior Copywriter | veterinaryemergencygroupst | VEG Headquarters, White Plains, NY |  | 2026-11-25 | [Apply](https://boards.greenhouse.io/veterinaryemergencygroupst/jobs/6264656004?gh_jid=6264656004) |
 | Director of Growth - Google Ads & PMax | wearerosie | Chicago, IL, US |  | 2026-11-25 | [Apply](https://jobs.smartrecruiters.com/wearerosie/3743990017098386) |
@@ -121,6 +123,7 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Communications Marketing Coordinator | bbinsurance | Grapevine, TX, USA |  | 2026-11-25 | [Apply](https://bbinsurance.wd1.myworkdayjobs.com/en-US/careers/job/Grapevine-TX-USA/Communications-Marketing-Coordinator_R26_0000004175-1) |
 | Marketing Director | harmonyseniorservices | Virginia Beach, Virginia |  | 2026-11-25 | [Apply](https://harmonyseniorservices.wd108.myworkdayjobs.com/en-US/harmony_careers/job/Virginia-Beach-Virginia/Marketing-Director_JR-005468-1) |
 | Technical Marketing Engineer I (Full Time) - United States | cisco | 2 Locations |  | 2026-11-25 | [Apply](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Technical-Marketing-Engineer-I--Full-Time----United-States_2026465) |
+| Director of Sales & Marketing | benchmark | Hyatt House Los Angeles |  | 2026-11-25 | [Apply](https://benchmark.wd1.myworkdayjobs.com/en-US/pgh_careers/job/Hyatt-House-Los-Angeles/Director-of-Sales---Marketing_R0069249) |
 | Field Marketing Representative | 2020companies | Jefferson, GA |  | 2026-11-25 | [Apply](https://2020companies.wd1.myworkdayjobs.com/en-US/external_careers/job/Jefferson-GA/Field-Marketing-Representative_REQ_117384) |
 | Global Customer Marketing Account Owner Lead | Salesforce | California - San Francisco |  | 2026-11-25 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Global-Customer-Marketing-Account-Owner-Lead_JR369392) |
 | Event Marketing Communications Manager | Salesforce | 3 Locations |  | 2026-11-25 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Event-Marketing-Communications-Manager_JR369363) |
@@ -185,10 +188,8 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Senior Director, Marketing Mix Modeling & Investment Optimization | amgen | United States - Remote |  | 2026-11-25 | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Senior-Director--Marketing-Mix-Modeling---Investment-Optimization_R-261597) |
 | Creator Nation l Manager, Creator Marketing | livenation | Beverly Hills, CA, USA |  | 2026-11-25 | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/lnexternalsite/job/Beverly-Hills-CA-USA/Creator-Nation-l-Manager--Creator-Marketing_JR-94495) |
 | Creator Nation l VP, Creator Marketing | livenation | Beverly Hills, CA, USA |  | 2026-11-25 | [Apply](https://livenation.wd503.myworkdayjobs.com/en-US/lnexternalsite/job/Beverly-Hills-CA-USA/Creator-Nation-l-VP--Creator-Marketing_JR-94494) |
-| Events and Communications Coordinator | PathForward | Arlington, VA, US |  | 2026-11-24 | [Apply](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=2c3dfd5a-fb63-46f9-967a-ef3f9f2a18ad&ccId=19000101_000001&jobId=958386&lang=en_US&source=CC2) |
 | Brand Community Manager | Elite Insurance Partners | Tampa, FL, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/teameip/job/ofM8Afwt) |
 | Social Media Content Producer, MeatEater | MeatEater, Inc. | Bozeman, MT |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4692391) |
-| Head of Marketing Communications and Solutions - North America | newzealandtradeandenterprise | Los Angeles, United States |  | 2026-11-24 | [Apply](https://jobs.lever.co/newzealandtradeandenterprise/dfb74e4d-f130-41f6-bd91-175ab56ba9ca) |
 | Communications Specialist | The Orthodox Union | New York, NY, United States |  | 2026-11-24 | [Apply](https://jobs.jobvite.com/orthodoxunion-jobs/job/oTO7Afw8) |
 | Sales and Marketing Manager - North America | Kee Safety Inc. | Orlando, FL |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4687329) |
 | Director of Sales and Marketing | Eckroth Music Company Inc | Bismarck, ND |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4691957) |
@@ -199,7 +200,6 @@ Explore marketing, growth, and brand roles in this fresh slice of jobs taken fro
 | Summer 2027 Intern-Marketing Operations | Blue Cross Blue Shield of Michigan | Detroit, MI, United States |  | 2026-11-24 | [Apply](https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15206) |
 | Sales and Marketing Associate | Sinclair | Omaha, NE, United States |  | 2026-11-24 | [Apply](https://edyy.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2002/job/17665) |
 | Data and Communications Coordinator | Gunnison County | Gunnison, CO |  | 2026-11-24 | [Apply](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4690967) |
-| Senior Content Marketing & Social Media Specialist | olo | New York City, NY |  | 2026-11-24 | [Apply](https://jobs.lever.co/olo/e26675ad-139d-449b-94a3-99f070c582f4) |
 | Communications Manager, Land Mobility | SpaceX | Hawthorne, CA |  | 2026-11-24 | [Apply](https://boards.greenhouse.io/spacex/jobs/8955890002?gh_jid=8955890002) |
 | Director, Field Marketing | rithum | United States - Remote |  | 2026-11-24 | [Apply](https://job-boards.greenhouse.io/rithum/jobs/8415071) |
 | Senior Analyst, Marketing Operations | qualtrics | Dallas, Texas, United States |  | 2026-11-24 | [Apply](https://www.qualtrics.com/careers/us/en/job/8406015?gh_jid=8406015) |
